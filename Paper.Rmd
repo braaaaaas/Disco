@@ -1,30 +1,304 @@
 ---
 title: "Boogie Wonderland - Is all Disco Music the Same?"
-author: "braaaaaas"
-date: "5/18/2021"
-output: github_document
+author: "Olivier Braas,"
+date: "21 May 2021."
+output: 
+  github_document:
+    toc: True
 ---
 
-```{r setup, include=FALSE}
+
+```{r Requirements, include = F, message = F, warning = F}
 knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(sjmisc)
+
+
+#Extracting data from local files:
+#PC
+top50artists <- read_csv("C:/Users/Olivier/Desktop/Uni/Semester 4/Data Science/Project/Draft Documents/Disco/Top50Artists.csv")
+
+
+#Creating groups for artists; Top5 = 1, Top5-10 = 2, etc.:
+
+top50df_grouped <- top50artists %>% 
+  group_var(X1, size = 50) 
+
+
+#Selecting the appropriate variables:
+
+top50_grouped_cleaned <- top50df_grouped %>% 
+  group_by(X1_gr) %>%
+  summarise(
+    mean_length = mean(length),
+    mean_danceability = mean(danceability),
+    mean_energy = mean(energy),
+    mean_instrumentalness = mean(instrumentalness),
+    mean_loudness = mean(loudness),
+    mean_tempo = mean(tempo)
+  ) 
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Introduction
 
-```{r cars}
-summary(cars)
+|       In the 1970s, underground music scenes in cities such as New York provided the foundation for the development of funky dance music, now known as disco. With roots in soulful jazz, disco had a difficult time gaining traction as a (popular) genre (1). But what exactly is a genre? A genre may be considered as an evolution from one music style to another, often in a novel direction, typically motivated by a socio-cultural driver. In hindsight, one can classify and identify music belonging to a specific genre based on connected technical elements, as well as factors extending beyond the scope of being quantifiable (2). Such notions hold true for disco, as the genre embodied and inspired social liberation among those marginalised by society, which were at the time particularly African Americans and the gay community (3).  
+|       The idea of genres being forged from a cultural driver and sharing similar technical elements may lead to the assumption that all songs of a particular genre are the same. This is something that has been pointed out to me on multiple occasions, particularly when I play disco around my housemates. But is all disco music truly the same, and is it just dance music? 
+|       Judging music to be similar is influenced by the aforementioned technical elements, underlying socio-cultural drivers, but also personal preference driven by potential pre-formed biases. Hence, the assessment of similarity was based on statistical indicators from the analysis of extracted Spotify variables. Before delving into the intricacies of the genre, it is important to identify the key elements that comprise a disco song. 
+|       Disco was a catalyst that not only rejuvenated social dancing but introduced new styles of dance, mostly in the non-partnered form (4). This novel style could be attributed to the underpinned energy and high tempo (beats per minute, bpm) of the discotheque (stemming from post-war French clubs, and later abbreviated to disco upon its rise in America) and the people on the dance floor (3). The experience of this new dance thus also defines an important element; danceability (which will be defined later). Finally, the lyrics of the songs are crucial, as they embody the message of the movement, of the song, of the artist. 
+
+## Methods
+
+|       As disco is not a common genre for analysis, all data had to be retrieved directly from the source: Spotify. Before extracting individual artist and song data from Spotify’s ‘for Developers’ (5) programme, a selection of artists had to be made. Unfortunately, disco literature is not widespread, so an online enthusiast-platform was consulted for a top 100 artist list (6). The webpage administrator confirmed that the list was based on users voting on their favourite artists (between 1,000 and 10,000 voters). 
+|       After creating a playlist with the top 10 songs per artist (based on number of plays in Spotify app), the data was extracted using Python and Angelica Dietzel’s tutorial on BetterProgramming (7). The data Spotify’s developer tool outputs had several variables, the chosen ones being energy (measure of intensity and activity), tempo (beats per minute), and danceability (based on musical elements such as rhythm, tempo, beat strength and regularity of the song) (8).
+|       Artists were grouped into groups of five, based on their position on the previously mentioned chart, and the variables were averaged. Before visualisation of the variables, histograms were produced to check for the normality of the distributions. All variables had approximated normal distributions.
+|       Finally, data visualisation was done in R studio.
+
+## Results
+
+|       The word cloud seen in Figure 1 displays words extracted from all the titles of the top 10 songs from all the artists included in the top 50 list. 
+
+``` {r Word Cloud, echo = F, message = F, warning = F, fig.align = "center", fig.cap = "Figure 1. Word cloud of song titles from top 10 hits from all top 50 artists. Larger words represent more frequent appearance in song titles."}
+#Packages
+library(ggwordcloud)
+library(scales)
+library(tidytext)
+library(mudata2)
+
+
+
+#Selecting words that do not fit (hand-selecting stopwords):
+
+word <- c("remaster", "mix", "single", "feat", "edit", "version",
+          "1", "2", "pts", "let", "teddy", "pendergrass", "get",
+          "remix", "original")
+
+wordstoremovedf <- data.frame(word)
+
+
+#Creating the word cloud:
+
+wordcloud <- top50artists %>% 
+select(name) %>% 
+  mutate(
+    word = str_extract_all(name, boundary("word"))
+  ) %>%
+  unnest(word) %>%
+  mutate(
+    word = str_to_lower(word)
+  ) %>% 
+  anti_join(get_stopwords(), by = "word") %>%
+  anti_join(wordstoremovedf, by = "word") %>% 
+  count(word, sort = TRUE) %>% 
+  head(50) %>% 
+  mutate(
+    angle = 90 * sample(c(0, 1), n(),
+                        replace = TRUE, prob = c(70, 30))) %>% 
+  ggplot(aes(label = word, size = n, angle = angle,
+             colour = word)) +
+    geom_text_wordcloud() +
+    scale_size_area(max_size = 20) + 
+  theme_minimal() + 
+  ggtitle("Word cloud of song titles from top 10 songs of all top 50 artists.")
+
+wordcloud
 ```
 
-## Including Plots
+|       Common themes are larger and represent more frequent occurrence, for example, “love”, “boogie” and “12” (after the vinyl size: 12 inch). While some words represented feelings of pleasure, like “heaven”, “good” and “heart”, others showed tracks directly addressed to certain groups, like “woman”, “girl”, and “lady”, and some tracks even mentioned the genre itself; “disco”. 
+|       Figure 2 below shows the mean energy of each artist, expressed as a percentage. A (blue) regression line clearly demonstrates a negative correlation (R2 = 0.74) between energy and top 50 group (where ‘better’ groups produced songs of higher energy). 
 
-You can also embed plots, for example:
+``` {r Energy, echo = F, message = F, warning = F, fig.align = "center", fig.cap = "Figure 2. Mean energy from top 10 songs of every artist in each group. The mean value for energy (%) from 10 artist groups (n = 5) is plotted, with standard deviation (SD = 0.055) lines added. A linear regression runs through the plot in blue, with an R2 value of 0.74. "}
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+#Packages
+library(ggpmisc)
+
+#This is required for best fit.
+
+best_fit <- y ~ x
+
+#Energy of song as %:
+
+plot_energy <- top50_grouped_cleaned %>% 
+  ggplot(aes(x = X1_gr, y = mean_energy)) + 
+    geom_point(size = 2, colour = "black") + 
+    geom_errorbar(aes
+                  (ymin = mean_energy - sd(`mean_energy`),
+                  ymax = mean_energy + sd(`mean_energy`),
+                  width = 0.1)) + 
+    geom_line(linetype = "longdash") + 
+    scale_x_discrete(limits = c(
+              "Top 5", "Top 6-10", "Top 11-15", "Top 16-20", "Top 21-25",
+              "Top 26-30", "Top 31-35", "Top 36-40", "Top 41-45", "Top 46-50")) +
+    geom_smooth(method = lm, se = F) +
+    stat_poly_eq(formula = best_fit,
+               aes(label = paste(..rr.label..)),
+               label.x = "right",
+               parse = T,
+               colour = "blue") +
+    annotate("text", x = 9.65, y = 0.77, label = "SD = 0.055") +
+  xlab("Artist Groups") + 
+  ylab("Energy (%)") +
+  ggtitle("Mean 'energy' expressed as percentage per group of 5 top artists")
+  
+plot_energy
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+|       Between the artist groups there is no significant difference, as the error bars representing standard deviation overlap (SD = 0.055) with all neighbouring groups.
+|       Figure 3 visualises the mean tempo in which the top artists produced their music. All artists seemingly stick to a tempo valued around 120 beats per minute. 
+
+``` {r Tempo, echo = F, message = F, warning = F, fig.align = "center", fig.cap="Figure 3. Mean tempo from top 10 songs of every artist in each group. The mean tempo (bpm) from the 10 artist groups (n = 5) are plotted. Values mostly lie around 120 bpm."}
+plot_tempobox <- top50df_grouped %>%  
+  ggplot(aes(x = X1_gr, y = tempo, group = X1_gr)) +
+      geom_boxplot() + 
+    scale_x_discrete(limits = c(
+              "Top 5", "Top 6-10", "Top 11-15", "Top 16-20", "Top 21-25",
+              "Top 26-30", "Top 31-35", "Top 36-40", "Top 41-45", "Top 46-50"))+
+  xlab("Artist Groups") + 
+  ylab("Tempo (bpm)") +
+  ggtitle("Tempo expressed as beats per minute per group of 5 top artists")
+
+plot_tempobox
+```
+
+|       Songs which did not fall under this general 120 bpm rule (outliers) tended to be more up-beat than mellower. Overall, artists belonging to the most popular groups conformed more stringently to this rule and showed less variability in tempo across their top 10 songs compared to less popular artists within the top 50. 
+|       Figure 4 expresses the mean danceability value as a percentage in a bar graph. The artist groups (1 – 10) are differentiated by colour (as seen in the legend).
+
+
+```{r Danceability, echo = F, message = F, warning = F, fig.align = "center", fig.width=15, fig.height=8, fig.cap= "Figure 4. Mean danceability of top 10 songs from each artist in their respective groups. Each artist group is assigned a different colour. Mean danceability is expressed as a percentage per artist in each group (n = 5)."}
+#Groups vs single acts; separate artists, and add variable (group or not)
+top50_per_artist <- top50artists %>% 
+  group_var(X1, size = 10) 
+
+top50_p_artist_grpd <- top50_per_artist %>% 
+  group_by(X1_gr) %>%
+  summarise(
+    mean_length = mean(length),
+    mean_danceability = mean(danceability),
+    mean_energy = mean(energy),
+    mean_instrumentalness = mean(instrumentalness),
+    mean_loudness = mean(loudness),
+    mean_tempo = mean(tempo)
+  ) 
+
+top50_p_artist_grpd_clnd <- top50_p_artist_grpd %>% 
+  group_var(X1_gr, size = "auto", n = 5) %>% 
+  left_join(top50_per_artist, by = "X1_gr")
+
+artist_names <- 
+  as.tibble(recode(top50_p_artist_grpd$X1_gr,
+                   "1" = "Donna Summer",
+                   "2" = "Bee Gees",
+                   "3" = "Gloria Gaynor",
+                   "4" = "Kool & The Gang",
+                   "5" = "KC & The Sunshine Band",
+                   "6" = "The Trammps",
+                   "7" = "CHIC",
+                   "8" = "Village People",
+                   "9" = "Michael Jackson",
+                   "10" = "James Brown",
+                   "11" = "Diana Ross",
+                   "12" = "Barry White",
+                   "13" = "First Choice",
+                   "14" = "Earth, Wind & Fire",
+                   "15" = "The Spinners",
+                   "16" = "Harold Melvin & The Blue Notes",
+                   "17" = "Tavares",
+                   "18" = "Prince",
+                   "19" = "Dan Hartman",
+                   "20" = "The Salsoul Orchestra",
+                   "21" = "The Whispers",
+                   "22" = "The O'Jays",
+                   "23" = "Madonna",
+                   "24" = "Shalamar",
+                   "25" = "Lime",
+                   "26" = "The Stylistics",
+                   "27" = "Eddie Kendricks",
+                   "28" = "Sylvester",
+                   "29" = "Rick James",
+                   "30" = "Change",
+                   "31" = "The Isley Brothers",
+                   "32" = "Ecstasy, Passion & Pain",
+                   "33" = "Evelyn \"Champagne\" King",
+                   "34" = "Cerrone",
+                   "35" = "The Jacksons",
+                   "36" = "Stevie Wonder",
+                   "37" = "Curtis Mayfield",
+                   "38" = "Linda Clifford",
+                   "39" = "Rufus & Chaka Khan",
+                   "40" = "Barrabas",
+                   "41" = "Van McCoy",
+                   "42" = "Commodores",
+                   "43" = "Erethra Franklin",
+                   "44" = "The S.O.S. Band",
+                   "45" = "Grace Jones",
+                   "46" = "Teena Marie",
+                   "47" = "Silver Convention",
+                   "48" = "Hues Corporation",
+                   "49" = "Ohio Players",
+                   "50" = "France Joli")) 
+
+#Renaming column for ease and potential join.
+artist_names <- artist_names %>% rename(
+  artist = value
+) 
+
+#Adding the artist df onto the top50_p_artist_grpd df.
+top50_p_artist_grpd$artist <- artist_names$artist
+
+#Grouping the artists into 5's again.
+top50_p_artist_grpd <- top50_p_artist_grpd %>% 
+  group_var(X1_gr, size = 5, right.interval = T)
+
+#Plotting
+plot_danceability <- top50_p_artist_grpd %>% 
+  ggplot(aes(x = X1_gr, y = mean_danceability, fill = as.factor(X1_gr_gr))) +
+  geom_col(width = 0.8, position = "dodge") + 
+  scale_x_continuous(breaks = c(2.5, 7.5, 12.5, 17.5, 22.5, 
+                                27.5, 32.5, 37.5, 42.5, 47.5),
+                     labels = c(
+                       "Top 5", "Top 6-10", "Top 11-15", "Top 16-20", "Top 21-25",
+                       "Top 26-30", "Top 31-35", "Top 36-40", "Top 41-45", "Top 46-50")) + 
+  geom_text(aes(label = artist, angle = 90, hjust = 1, vjust = 0.35)) + 
+  labs(
+    fill = "Top 50 Artists",
+    x = "Artist Group",
+    y = "Mean Danceability",
+    title = "Mean danceability per artist, expressed as percentage"
+  ) 
+
+plot_danceability
+```
+
+|       Every group sees a peak around 75% danceability rating, where most artists lie between 60% and 75%. Only Michael Jackson, Evelyn “Champagne” King and Change exceed the 80% threshold.  
+
+
+## Discussion and Conclusion
+
+|       Figure 2 made it clear that there were no significant differences between neighbouring top artist groups. However, when observing artist groups spaced further apart, significant differences do appear. This notion of similarity between groups is nicely summarised by Richard Dawkins’ book The Greatest Show on Earth. Dawkins explains that differences between generations of a species are minute, yet, when extending the scope, one notices distinct differences between generations far apart (9). Perhaps this is applicable to music, and artists that form a genre; as genres do develop and change over-time (2). Distinct differences may be observed if the genre spanned for a longer time, as the top artists may have had their prime in a distinct period, being subjected to different cultural progenitors, and thus resulting in varying technical elements defining their music. 
+|       Tempo (Figure 3) and danceability (Figure 4) values across artists also fall within a narrow range. This may be attributed to the fact that disco fueled the high-energy underground social movement of expression, and thus needed to be danceable with a high tempo to classify as disco (1). It is worth mentioning, however, that artists belonging to the higher-ranking groups did generally display more focused bpm and danceability values than those at the other end of the list.
+|       The word cloud in Figure 1 revealed words that were descriptive of the genre, and thus the movement. Love, the most central word, captures the mentality of disco’s all-accepting history, and is further supported by words radiating warmth, like “give”, “heaven” and “heart”.
+|       To draw a conclusion whether all disco music is the same is relatively straight forward from the analysis of the top 50 artists, and their top 10 most popular songs: It seems like all disco songs are the same, or at least, similar enough to be statistically insignificant. Perhaps differences across the songs are not discernible with the extracted variables used in this analysis and warrant further exploration in the future, perhaps by refining the variables of interest (e.g., exploring base lines and saxophone solos). 
+|       Although the original message of disco may be lost in modern remixes, samples, and dance parties, the essence still lies in the liberating power it offered during its rise to popularity, and is thus not merely dance music. Finally, the similarity of technical genre-defining elements may be a common theme among genres and should also be investigated before finalising the claim that all disco music is the same.
+
+## References
+
+1. 	Echols A. Hot Stuff: Disco and the Remaking of American Culture. London: W. W. Norton & Company; 2011. 
+2. 	Crauwels K. Musicmap: The Genealogy and History of Popular Music Genres from Origin till Present (1870-2016) [Internet]. 2020 [cited 2021 Apr 23]. Available from: https://musicmap.info/
+3. 	Paul Stokes. 6 Ways Disco Changed the World [Internet]. London; 2017. Available from: https://www.bbc.co.uk/programmes/articles/23hgH64c0cvLlwYjfmzcztJ/6-ways-disco-changed-the-world
+4. 	Lawrence T. Disco: Liberation of the Body [Internet]. 2013. Available from: http://www.timlawrence.info/articles2/tag/Disco
+5. 	Spotify. Spotify for Developers [Internet]. 2021. Available from: https://developer.spotify.com/
+6. 	DigitalDreamDoor. 100 Greatest Disco Artists [Internet]. 2005 [cited 2021 Apr 9]. Available from: https://digitaldreamdoor.com/pages/best_disco-artists.html
+7. 	Dietzel A. How to extract any artist’s data using Spotify’s API, Python, and Spotipy [Internet]. 2020 [cited 2021 Apr 18]. Available from: https://betterprogramming.pub/how-to-extract-any-artists-data-using-spotify-s-api-python-and-spotipy-4c079401bc37
+8. 	Spotify. Web API Reference [Internet]. 2021 [cited 2021 Apr 9]. Available from: https://developer.spotify.com/documentation/web-api/reference/#objects-index
+9. 	Dawkins R. The Greatest Show on Earth. 1st ed. Black Swan; 2009. 
+
+
+## Appendix
+
+### A - Replit Python Code
+
+https://replit.com/@braaaaaas/Disco#pyproject.toml
+
+

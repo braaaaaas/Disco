@@ -1,0 +1,501 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Hot Stuff,Hot Stuff,Donna Summer,18-09-20,199007,73,0.681,0.019,0.681,0.773,1.28E-06,0.11,-5.749,0.148,119.961,4
+1,"Hot Stuff - 12"" Version",Bad Girls (Deluxe Edition),Donna Summer,25-04-79,407053,68,0.796,0.00475,0.796,0.892,0.0187,0.0717,-8.31,0.0333,120.4,4
+2,Hot Stuff,Bad Girls,Donna Summer,25-04-79,314760,64,0.823,0.00559,0.823,0.743,0.0306,0.0707,-13.98,0.0316,120.471,4
+3,"I Feel Love - 12"" Version",Bad Girls (Deluxe Edition),Donna Summer,25-04-79,495186,64,0.692,0.074,0.692,0.79,0.711,0.101,-14.065,0.0416,128.13,4
+4,Last Dance - Single Version,Walk Away - Collector's Edition The Best Of 1977-1980,Donna Summer,08-09-80,199800,62,0.341,0.131,0.341,0.721,0.00029,0.216,-10.311,0.0801,126.351,4
+5,Bad Girls,Bad Girls,Donna Summer,25-04-79,295106,61,0.857,0.00387,0.857,0.7,0.0164,0.411,-14.506,0.0358,120.529,4
+6,On The Radio,On The Radio: Greatest Hits Volumes I & II,Donna Summer,15-10-79,241506,60,0.734,0.113,0.734,0.45,1.13E-05,0.296,-13.92,0.035,127.46,4
+7,She Works Hard For The Money,She Works Hard For The Money,Donna Summer,01-01-83,320840,60,0.758,0.00486,0.758,0.638,0.0141,0.0938,-13.01,0.0378,136.502,4
+8,Hot Stuff - Single Version,Walk Away - Collector's Edition The Best Of 1977-1980,Donna Summer,08-09-80,225666,56,0.817,0.00494,0.817,0.697,0.0254,0.064,-12.445,0.0323,120.954,4
+9,Last Dance,On The Radio: Greatest Hits Volumes I & II,Donna Summer,15-10-79,296506,53,0.605,0.121,0.605,0.612,0.00236,0.22,-13.399,0.0439,125.37,4
+10,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",How Can You Mend A Broken Heart,Bee Gees,20-11-20,196213,79,0.601,0.175,0.601,0.703,8.40E-05,0.571,-6.24,0.0379,106.164,4
+11,Stayin Alive,How Can You Mend A Broken Heart,Bee Gees,20-11-20,285373,77,0.702,0.0288,0.702,0.773,0.00871,0.147,-9.256,0.0343,103.564,4
+12,"How Deep Is Your Love - From ""Saturday Night Fever"" Soundtrack",How Can You Mend A Broken Heart,Bee Gees,20-11-20,241093,73,0.594,0.076,0.594,0.5,9.86E-05,0.184,-5.586,0.0255,104.996,4
+13,"Night Fever - From ""Saturday Night Fever"" Soundtrack",How Can You Mend A Broken Heart,Bee Gees,20-11-20,212800,72,0.726,0.0178,0.726,0.779,0.00178,0.104,-7.057,0.0251,109.133,4
+14,Stayin' Alive,Staying Alive (Original Motion Picture Soundtrack),Bee Gees,13-12-77,92866,70,0.707,0.113,0.707,0.535,0.00615,0.0884,-19.793,0.0436,103.644,4
+15,"You Should Be Dancing - Edit / From ""Saturday Night Fever"" Soundtrack",Children Of The World,Bee Gees,01-01-76,256493,68,0.681,0.0182,0.681,0.716,0.17,0.337,-10.911,0.0333,123.009,4
+16,To Love Somebody,Bee Gees' 1st,Bee Gees,14-07-67,182000,68,0.423,0.729,0.423,0.384,4.11E-06,0.27,-12.503,0.0315,90.43,4
+17,Too Much Heaven,Spirits Having Flown,Bee Gees,05-02-79,296000,68,0.495,0.44,0.495,0.439,8.88E-05,0.725,-13.212,0.0467,165.922,4
+18,I Started A Joke,Idea (Deluxe Edition),Bee Gees,11-08-68,188306,67,0.31,0.156,0.31,0.464,8.94E-06,0.132,-8.755,0.0275,144.775,4
+19,Tragedy,Spirits Having Flown,Bee Gees,05-02-79,303333,65,0.665,0.0889,0.665,0.532,0.0109,0.296,-10.793,0.0277,117.955,4
+20,I Will Survive - Single Version,20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor,Gloria Gaynor,01-01-00,198066,72,0.777,0.0131,0.777,0.725,0.00805,0.246,-8.681,0.05,116.669,4
+21,I Will Survive - 1981 Re-recording,I Will Survive,Gloria Gaynor,1981,261173,65,0.668,0.00293,0.668,0.678,0,0.265,-10.317,0.056,120.029,4
+22,Can't Take My Eyes Off of You - Radio Edit,Can't Take My Eyes Off of You,Gloria Gaynor,2000,248026,58,0.732,0.237,0.732,0.949,0.000941,0.308,-4.406,0.0356,129.959,4
+23,I Will Survive,Love Tracks,Gloria Gaynor,27-11-78,296106,58,0.77,0.0227,0.77,0.775,0.00262,0.297,-9.571,0.0495,116.935,4
+24,I Am What I Am,Gloria Gaynor '90 (All New Versions),Gloria Gaynor,1990,207106,54,0.644,0.0663,0.644,0.619,0.000494,0.107,-14.015,0.0376,119.616,4
+25,Never Can Say Goodbye - Single Version,Never Can Say Goodbye (Deluxe Edition),Gloria Gaynor,23-01-75,179466,52,0.611,0.000588,0.611,0.882,0.926,0.397,-3.18,0.028,125.681,4
+26,Can't Take My Eyes Off of You - Black Box Mix,Gloria Gaynor '90 (All New Versions),Gloria Gaynor,1990,316000,51,0.719,0.0679,0.719,0.547,2.93E-06,0.229,-13.19,0.0362,121.724,4
+27,I Will Survive,Big Hits,Gloria Gaynor,24-10-11,196600,41,0.644,0.0446,0.644,0.797,0,0.304,-6.723,0.043,119.293,4
+28,The Eye of the Tiger,Gloria Gaynor,Gloria Gaynor,19-05-15,197026,48,0.786,0.474,0.786,0.602,1.56E-05,0.0914,-6.767,0.0453,109.231,4
+29,Never Can Say Goodbye,Never Can Say Goodbye,Gloria Gaynor,23-01-75,378786,35,0.61,0.00788,0.61,0.893,0.541,0.923,-3.357,0.0299,126.741,4
+30,Get Down On It,The Very Best Of Kool & The Gang (Reissue),Kool & The Gang,01-03-99,212906,74,0.879,0.205,0.879,0.626,6.07E-05,0.056,-6.344,0.0604,110.864,4
+31,Celebration,Celebrate!,Kool & The Gang,29-09-80,298866,69,0.885,0.145,0.885,0.664,0.0483,0.0767,-11.795,0.0524,121.632,4
+32,Celebration - Single Version,Celebration / Morning Star,Kool & The Gang,01-01-09,215653,67,0.843,0.0466,0.843,0.656,0.0187,0.169,-11.184,0.0595,121.112,4
+33,Cherish,The Very Best Of Kool & The Gang (Reissue),Kool & The Gang,01-03-99,238933,64,0.639,0.331,0.639,0.596,0,0.296,-8.145,0.0225,95.186,4
+34,Jungle Boogie,Wild And Peaceful,Kool & The Gang,1973-09,186533,64,0.808,0.115,0.808,0.85,0.000109,0.316,-8.772,0.0868,106.855,4
+35,Fresh,Emergency (Reissue),Kool & The Gang,15-11-84,266560,63,0.838,0.00912,0.838,0.381,0.0988,0.0364,-16.867,0.0351,117.708,4
+36,Hollywood Swinging,Wild And Peaceful,Kool & The Gang,1973-09,279933,58,0.623,0.0195,0.623,0.824,0.13,0.0491,-8.971,0.0479,111.356,4
+37,Summer Madness,Light Of Worlds,Kool & The Gang,1974-09,257866,55,0.303,0.00859,0.303,0.332,0.864,0.0654,-16.471,0.032,175.85,4
+38,Get Down On It,Something Special,Kool & The Gang,1981,293666,57,0.847,0.0753,0.847,0.389,1.20E-05,0.0471,-15.362,0.0569,111.52,4
+39,Ladies Night - Single Version,Celebration: The Best Of Kool & The Gang (1979-1987),Kool & The Gang,07-06-94,209706,56,0.668,0.215,0.668,0.596,5.23E-05,0.0621,-12.719,0.129,111.695,4
+40,Give It Up,All In a Night's Work (Expanded Version),KC & The Sunshine Band,11-03-16,254240,66,0.862,0.0192,0.862,0.624,0.000153,0.0465,-11.63,0.0565,124.896,4
+41,That's the Way (I Like It) - 2004 Remaster,KC & the Sunshine Band,KC & The Sunshine Band,06-07-75,185106,61,0.68,0.191,0.68,0.877,0.000656,0.349,-10.241,0.0353,108.674,4
+42,Please Don't Go,Do You Wanna Go Party,KC & The Sunshine Band,1979,230440,60,0.445,0.00805,0.445,0.75,0,0.0358,-7.159,0.035,95.957,4
+43,Boogie Shoes - 2004 Remaster,KC & the Sunshine Band,KC & The Sunshine Band,06-07-75,132040,53,0.931,0.496,0.931,0.801,0.379,0.0563,-10.725,0.0548,119.533,4
+44,"(Shake, Shake, Shake) Shake Your Booty",Part 3,KC & The Sunshine Band,1976,185640,55,0.651,0.169,0.651,0.945,0.475,0.15,-7.922,0.0361,112.292,4
+45,I'm Your Boogie Man,Part 3,KC & The Sunshine Band,1976,241920,55,0.765,0.0156,0.765,0.927,5.97E-06,0.0391,-5.715,0.0399,113.326,4
+46,Get Down Tonight - 2004 Remaster,KC & the Sunshine Band,KC & The Sunshine Band,06-07-75,317160,53,0.671,0.137,0.671,0.776,0.00649,0.394,-11.414,0.0282,112.629,4
+47,That's the Way (I Like It),The TK Years,KC & The Sunshine Band,09-03-09,306146,50,0.661,0.125,0.661,0.928,0.00277,0.345,-6.898,0.0441,108.587,4
+48,Keep It Comin' Love,The Complete TK Albums,KC & The Sunshine Band,05-07-19,271493,43,0.773,0.232,0.773,0.721,1.61E-05,0.0349,-12.574,0.0294,110.383,4
+49,Boogie Shoes,The TK Years,KC & The Sunshine Band,09-03-09,139800,39,0.935,0.458,0.935,0.883,0.203,0.0613,-7.876,0.0523,113.996,4
+50,Disco Inferno - Single Edit,Rhino Hi-Five: The Trammps,The Trammps,20-09-05,191573,64,0.766,0.0261,0.766,0.844,0.605,0.18,-3.851,0.0361,129.323,4
+51,"Disco Inferno - LP / 12"" Version",Disco Inferno,The Trammps,1976,659000,51,0.799,0.0293,0.799,0.632,0.359,0.103,-12.364,0.0332,128.567,4
+52,Shout,Trammps,The Trammps,1975,210933,44,0.75,0.219,0.75,0.836,0,0.149,-6.704,0.0999,127.62,4
+53,Rubber Band,The Legendary Zing Album,The Trammps,01-06-75,315853,43,0.728,0.333,0.728,0.669,0.000924,0.131,-12.314,0.0309,97.962,4
+54,Zing! Went the Strings of My Heart,The Trammps,The Trammps,01-01-09,202693,32,0.667,0.0338,0.667,0.851,1.01E-06,0.318,-5.257,0.0629,120.132,4
+55,The Night the Lights Went Out,The Trammps III,The Trammps,1977,427160,31,0.645,0.172,0.645,0.703,0.00043,0.0608,-10.865,0.0588,121.186,4
+56,Stop and Think,Disco Champs,The Trammps,1977,303280,28,0.77,0.0512,0.77,0.848,0.112,0.178,-7.777,0.0406,118.347,4
+57,Love Epidemic,Trammps,The Trammps,1975,287960,27,0.775,0.284,0.775,0.853,1.46E-05,0.405,-7.141,0.0431,120.769,4
+58,Disco Inferno,Playlist: The Best Of The Trammps,The Trammps,17-06-16,213840,59,0.676,0.000362,0.676,0.704,0.0709,0.139,-8.534,0.0329,129.594,4
+59,Hold Back the Night,The Legendary Zing Album,The Trammps,01-06-75,234466,14,0.767,0.594,0.767,0.675,6.46E-06,0.0641,-10.875,0.114,127.28,4
+60,Le Freak - 2018 Remaster,C'est Chic (2018 Remaster),CHIC,11-08-78,331360,67,0.91,0.0258,0.91,0.641,6.42E-05,0.0642,-11.316,0.0589,118.533,4
+61,Good Times,Risqué,CHIC,30-07-79,495400,65,0.87,0.149,0.87,0.657,0.0102,0.053,-7.32,0.0522,110.596,4
+62,I Want Your Love - 2018 Remaster,C'est Chic (2018 Remaster),CHIC,11-08-78,413586,58,0.699,0.0185,0.699,0.604,0.073,0.0868,-13.404,0.0359,114.226,4
+63,Le Freak - Edit,Les Plus Grands Success De Chic - Chic's Greatest Hits,CHIC,1979,215693,55,0.832,0.0422,0.832,0.553,0.00356,0.249,-13.705,0.0487,119.825,4
+64,Everybody Dance - 2018 Remaster,Chic (2018 Remaster),CHIC,01-01-77,402693,55,0.722,0.05,0.722,0.66,0.000901,0.0907,-13.438,0.0538,129.727,4
+65,Soup for One,"Dance, Dance, Dance: The Best of Chic",CHIC,1991,335066,54,0.823,0.212,0.823,0.51,0.806,0.11,-11.235,0.0352,114.83,4
+66,"Everybody Dance - 12"" Mix",Les Plus Grands Success De Chic - Chic's Greatest Hits,CHIC,1979,510453,39,0.76,0.0823,0.76,0.595,0.107,0.0671,-14.579,0.0913,128.584,4
+67,Le Freak - Oliver Heldens Remix,Le Freak (Oliver Heldens Remix),CHIC,14-11-18,232522,49,0.859,0.00942,0.859,0.757,0.0377,0.105,-6.005,0.0736,124.986,4
+68,A Warm Summer Night,Risqué,CHIC,30-07-79,364853,49,0.591,0.396,0.591,0.568,0.012,0.175,-12.68,0.0468,135.979,4
+69,Everybody Dance,Good Times: The Very Best Of Chic & Sister Sledge,CHIC,2005,247666,49,0.833,0.00665,0.833,0.686,0.000771,0.0959,-8.735,0.119,128.016,4
+70,YMCA - Original Version 1978,YMCA,Village People,01-01-78,286800,70,0.723,0.0643,0.723,0.969,0,0.115,-4.516,0.142,126.653,4
+71,YMCA,Can't Stop the Music (Original Soundtrack 1980),Village People,1980,202573,63,0.742,0.19,0.742,0.696,0,0.151,-7.871,0.0735,126.432,3
+72,Macho Man,San Francisco Macho Man,Village People,1978,321000,57,0.708,0.0472,0.708,0.805,0,0.0867,-9.103,0.0612,133.419,4
+73,In the Navy - Original Version 1979,Go West In the Navy,Village People,1979,339946,57,0.725,0.0725,0.725,0.959,0,0.14,-6.994,0.0472,127.323,4
+74,Go West - Original Version 1979,Go West In the Navy,Village People,1979,250880,50,0.701,0.0228,0.701,0.868,1.11E-05,0.189,-7.306,0.0371,128.237,4
+75,Can't Stop the Music,Can't Stop the Music (Original Soundtrack 1980),Village People,1980,218000,47,0.777,0.118,0.777,0.629,0,0.74,-10.33,0.111,133.4,4
+76,5' O'clock In the Morning,Renaissance,Village People,1981,303413,35,0.591,0.0277,0.591,0.765,1.38E-05,0.156,-5.399,0.0416,85.874,4
+77,San Francisco (You've Got Me),San Francisco Macho Man,Village People,1978,317866,33,0.644,0.0284,0.644,0.841,0,0.0853,-7.798,0.0347,127.058,4
+78,Ups and Downs - Original Version 1978,YMCA,Village People,01-01-78,384960,20,0.714,0.0558,0.714,0.949,0,0.715,-4.491,0.114,123.286,4
+79,I'm a Cruiser - Original Version 1978,YMCA,Village People,01-01-78,421253,23,0.715,0.0444,0.715,0.955,3.80E-05,0.152,-3.71,0.121,126.199,4
+80,Billie Jean,Thriller 25 Super Deluxe Edition,Michael Jackson,30-11-82,293826,84,0.92,0.0236,0.92,0.654,0.0158,0.0359,-3.051,0.0401,117.046,4
+81,Beat It,Thriller 25 Super Deluxe Edition,Michael Jackson,30-11-82,258040,79,0.779,0.0491,0.779,0.867,7.98E-06,0.197,-3.704,0.0457,138.858,4
+82,Smooth Criminal - 2012 Remaster,Bad 25th Anniversary,Michael Jackson,31-08-87,257760,76,0.853,0.247,0.853,0.981,0.468,0.306,-3.947,0.0751,118.193,4
+83,Don't Stop 'Til You Get Enough,Off the Wall,Michael Jackson,10-08-79,365466,75,0.878,0.126,0.878,0.821,0.0461,0.183,-9.875,0.089,118.881,4
+84,Rock with You - Single Version,Off the Wall,Michael Jackson,10-08-79,220626,74,0.808,0.179,0.808,0.535,9.91E-05,0.158,-12.521,0.0353,114.031,4
+85,The Way You Make Me Feel - 2012 Remaster,Bad 25th Anniversary,Michael Jackson,31-08-87,298120,73,0.877,0.0544,0.877,0.854,5.50E-05,0.144,-4.523,0.147,114.472,4
+86,Bad - 2012 Remaster,Bad 25th Anniversary,Michael Jackson,31-08-87,247360,72,0.787,0.00462,0.787,0.889,0.423,0.0665,-3.786,0.0397,114.091,4
+87,They Don't Care About Us,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",Michael Jackson,16-06-95,284160,71,0.859,0.205,0.859,0.905,0.00837,0.322,-5.539,0.129,89.946,4
+88,P.Y.T. (Pretty Young Thing),Thriller 25 Super Deluxe Edition,Michael Jackson,30-11-82,238733,71,0.888,0.23,0.888,0.815,0.000424,0.127,-4.909,0.0404,127.273,4
+89,Get on the Floor,Off the Wall,Michael Jackson,10-08-79,277640,52,0.809,0.0629,0.809,0.892,0.344,0.0334,-11.443,0.0437,124.435,4
+90,The Boss,Black Caesar,James Brown,01-01-73,194866,64,0.736,0.579,0.736,0.354,0.0103,0.0757,-14.709,0.0475,97.924,4
+91,People Get Up And Drive Your Funky Soul - Remix,Motherlode,James Brown,01-01-03,544640,61,0.8,0.23,0.8,0.802,0.00379,0.0971,-5.439,0.166,97.586,4
+92,Get Up Offa That Thing,The 50th Anniversary Collection,James Brown,01-01-03,239733,60,0.864,0.217,0.864,0.813,0,0.874,-6.909,0.361,118.006,4
+93,"Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2",70's Funk Classics,James Brown,16-04-95,318800,59,0.833,0.273,0.833,0.661,0.000149,0.294,-7.595,0.101,108.314,4
+94,The Payback,The Payback,James Brown,01-01-73,459893,59,0.868,0.159,0.868,0.644,0.00018,0.901,-10.987,0.194,97.933,4
+95,Papa's Got A Brand New Bag - Pt. 1,The 50th Anniversary Collection,James Brown,01-01-03,126040,57,0.777,0.592,0.777,0.816,0.0212,0.253,-5.198,0.102,129.563,4
+96,Try Me,"Please, Please, Please",James Brown,01-01-96,153706,45,0.676,0.931,0.676,0.224,0,0.302,-15.193,0.0293,101.47,3
+97,Get Up I Feel Like Being A Sex Machine - Pt. 1 / Single Version,The 50th Anniversary Collection,James Brown,01-01-03,170506,52,0.841,0.208,0.841,0.655,3.05E-06,0.291,-8.15,0.239,108.442,4
+98,Living in America,Living In America,James Brown,20-02-95,248533,39,0.714,0.00121,0.714,0.907,0.000346,0.216,-4.687,0.0412,114.122,4
+99,She's The One,Motherlode,James Brown,01-01-03,172840,21,0.745,0.0154,0.745,0.739,0.00502,0.0472,-5.355,0.0911,114.283,4
+100,I'm Coming Out,Diana,Diana Ross,22-05-80,325266,67,0.739,0.177,0.739,0.917,0.119,0.0834,-4.459,0.0504,110.163,4
+101,Upside Down,Diana,Diana Ross,22-05-80,244826,67,0.887,0.079,0.887,0.904,0.0101,0.0165,-5.107,0.0703,107.955,4
+102,Chain Reaction,Eaten Alive,Diana Ross,24-09-85,230533,60,0.794,0.155,0.794,0.55,0.000271,0.113,-12.988,0.0367,127.736,4
+103,You Are Everything,Diana & Marvin,Diana Ross,26-10-73,190440,59,0.521,0.0306,0.521,0.525,2.20E-05,0.145,-9.581,0.0463,150.392,4
+104,Ain't No Mountain High Enough,The Motown Anthology,Diana Ross,01-01-01,211760,51,0.292,0.344,0.292,0.767,0.000502,0.105,-6.739,0.0505,201.171,4
+105,It's My House,The Boss,Diana Ross,23-05-79,274560,57,0.762,0.29,0.762,0.67,6.42E-06,0.0783,-5.862,0.0717,99.473,4
+106,The Boss,The Boss,Diana Ross,23-05-79,241333,55,0.639,0.235,0.639,0.905,4.93E-05,0.206,-4.215,0.0543,123.66,4
+107,"Stop, Look, Listen (To Your Heart)",Diana & Marvin,Diana Ross,26-10-73,177786,54,0.592,0.319,0.592,0.383,0,0.231,-10.929,0.0276,83.421,4
+108,Theme From Mahogany (Do You Know Where You're Going To) - Single Version,Diana Ross,Diana Ross,10-02-76,202360,54,0.334,0.835,0.334,0.306,0.0275,0.128,-15.169,0.0332,139.552,4
+109,Have Fun (Again),Diana,Diana Ross,22-05-80,357093,27,0.92,0.197,0.92,0.7,0.000665,0.13,-5.853,0.0811,125.049,4
+110,"You're The First, The Last, My Everything - Edit",Barry White - The Collection,Barry White,12-09-88,206936,47,0.633,0.000679,0.633,0.542,0.00434,0.0754,-12.318,0.0316,130.314,4
+111,"Can't Get Enough Of Your Love, Babe",Can't Get Enough,Barry White,15-02-74,274000,68,0.729,0.114,0.729,0.78,0.106,0.0759,-7.604,0.0631,111.833,4
+112,Just The Way You Are,Barry White - The Collection,Barry White,12-09-88,289106,66,0.564,0.166,0.564,0.327,3.45E-05,0.149,-14.63,0.0494,74.948,4
+113,Let The Music Play - Single Version,Let The Music Play (Expanded Edition),Barry White,02-01-76,210386,62,0.537,0.0149,0.537,0.812,0,0.153,-6.257,0.0472,99.323,4
+114,"Can't Get Enough Of Your Love, Babe",Barry White - The Collection,Barry White,12-09-88,242573,60,0.771,0.175,0.771,0.659,0.0356,0.179,-12.311,0.0688,110.698,4
+115,I'm Gonna Love You Just A Little More Baby,I've Got So Much To Give,Barry White,01-01-73,431506,58,0.606,0.0111,0.606,0.486,0.00145,0.0757,-13.553,0.041,87.567,4
+116,"Never, Never Gonna Give Ya Up",Barry White's Greatest Hits,Barry White,03-03-75,290666,52,0.615,0.0823,0.615,0.804,0,0.085,-11.04,0.0752,85.164,4
+117,"You're The First, The Last, My Everything",Can't Get Enough,Barry White,15-02-74,276466,53,0.678,0.00389,0.678,0.571,0.0862,0.183,-9.51,0.0353,130.285,4
+118,You See The Trouble With Me,Let The Music Play,Barry White,02-01-76,209906,53,0.666,4.53E-05,0.666,0.583,0.286,0.0772,-13.698,0.0284,114.851,4
+119,What Am I Gonna Do With You,Just Another Way To Say I Love You,Barry White,25-03-75,219440,51,0.625,0.0246,0.625,0.869,0.0626,0.093,-9.467,0.0293,114.223,4
+120,"Let No Man Put Asunder - Shep Pettibone 12"" Mix",Delusions (Bonus Version),First Choice,01-01-77,481506,35,0.691,0.0104,0.691,0.843,0.000786,0.594,-6.795,0.0815,120.901,4
+121,Dr. Love,Salsoul Classics Vol. 1,First Choice,1976,456493,35,0.558,0.0121,0.558,0.731,0.00574,0.271,-8.416,0.0346,118.798,4
+122,"Let No Man Put Asunder - Frankie Knuckles 12"" Remix",Delusions (Bonus Version),First Choice,01-01-77,458320,26,0.512,0.00175,0.512,0.833,0,0.108,-7.254,0.069,120.257,4
+123,I Can Show You (Better Than I Can Tell You) - Phonk D Edit,I Can Show You (Better Than I Can Tell You) [Phonk D Edit],First Choice,27-07-18,379687,24,0.843,0.0011,0.843,0.635,0.0417,0.638,-8.982,0.105,122.992,4
+124,Armed and Extremely Dangerous,"Philly Groove Records Presents: The Early Years, Vol. 1",First Choice,28-10-14,171000,20,0.623,0.0184,0.623,0.691,7.64E-05,0.416,-13.879,0.0473,123.284,4
+125,"Doctor Love - Tom Moulton 12"" Mix",Delusions (Bonus Version),First Choice,01-01-77,457746,18,0.502,0.0211,0.502,0.871,0.00382,0.667,-5.691,0.049,118.864,4
+126,Love Thang,Hold Your Horses,First Choice,01-12-78,477453,19,0.804,0.00497,0.804,0.495,0.0801,0.248,-10.194,0.108,110.885,4
+127,Dr. Love,Delusions (Bonus Version),First Choice,01-01-77,317533,15,0.474,0.0651,0.474,0.824,0,0.373,-6.179,0.0832,115.623,4
+128,Love Having You Around,Delusions (Bonus Version),First Choice,01-01-77,408520,18,0.766,0.00759,0.766,0.702,0.00547,0.0717,-7.468,0.0672,111.341,4
+129,Do Me Again,Delusions (Bonus Version),First Choice,01-01-77,228080,5,0.416,0.274,0.416,0.843,2.16E-06,0.57,-6.204,0.0589,169.965,4
+130,September,"The Best Of Earth, Wind & Fire Vol. 1","Earth, Wind & Fire",23-11-78,215093,80,0.697,0.168,0.697,0.832,0.00131,0.269,-7.264,0.0298,125.926,4
+131,Boogie Wonderland,I Am,"Earth, Wind & Fire",1979-06,288293,74,0.802,0.0843,0.802,0.756,0.00765,0.0521,-10.791,0.0349,131.715,4
+132,Let's Groove,Raise!,"Earth, Wind & Fire",14-11-81,339320,74,0.869,0.121,0.869,0.648,2.17E-05,0.126,-8.698,0.0633,125.035,4
+133,After the Love Has Gone,I Am,"Earth, Wind & Fire",1979-06,278040,68,0.424,0.532,0.424,0.443,0.000389,0.673,-13.45,0.0382,131.675,4
+134,Fantasy - Single Version,"The Best Of Earth, Wind & Fire Vol. 1","Earth, Wind & Fire",23-11-78,226213,67,0.666,0.291,0.666,0.714,0.0212,0.128,-9.448,0.0617,89.018,4
+135,Shining Star,That's The Way Of The World,"Earth, Wind & Fire",15-03-75,170160,64,0.676,0.668,0.676,0.692,0.00915,0.13,-13.093,0.052,102.516,4
+136,That's the Way of the World,That's The Way Of The World,"Earth, Wind & Fire",15-03-75,345506,58,0.586,0.593,0.586,0.552,0.00101,0.31,-11.153,0.0488,82,4
+137,In the Stone,I Am,"Earth, Wind & Fire",1979-06,288480,57,0.656,0.0964,0.656,0.662,0.000612,0.0853,-10.346,0.0493,114.612,4
+138,Reasons,That's The Way Of The World,"Earth, Wind & Fire",15-03-75,299333,56,0.604,0.212,0.604,0.43,0,0.159,-10.624,0.0356,126.632,4
+139,Rock That!,I Am,"Earth, Wind & Fire",1979-06,187813,35,0.578,0.111,0.578,0.772,0.824,0.555,-10.388,0.0456,126.926,4
+140,The Rubberband Man,The Rubberband Man / Now That We're Together [Digital 45],The Spinners,1976,213000,67,0.801,0.74,0.801,0.446,0.038,0.0832,-14.605,0.0735,97.898,4
+141,It's A Shame,2nd Time Around (Expanded Edition),The Spinners,1970,190058,64,0.372,0.0947,0.372,0.642,0,0.117,-11.955,0.0594,198.731,4
+142,I'll Be Around,Spinners,The Spinners,1973,188800,63,0.593,0.175,0.593,0.791,0,0.0976,-8.698,0.068,112.295,4
+143,Could It Be I'm Falling in Love,Spinners,The Spinners,1973,249733,60,0.382,0.729,0.382,0.727,0,0.196,-6.677,0.0861,207.265,4
+144,Working My Way Back to You,The Very Best of the Spinners,The Spinners,1993,242666,60,0.818,0.289,0.818,0.768,4.73E-06,0.107,-6.975,0.0482,121.562,4
+145,The Rubberband Man,Happiness Is Being With the Spinners,The Spinners,01-06-76,444133,50,0.821,0.414,0.821,0.611,0.000152,0.0943,-9.795,0.0555,97.264,4
+146,Games People Play,Pick of the Litter,The Spinners,1975,284133,44,0.675,0.529,0.675,0.45,0.00109,0.0632,-10.878,0.0381,76.195,4
+147,"Medley: Working My Way Back to You / Forgive Me, Girl",Dancin' and Lovin',The Spinners,1979,243200,43,0.84,0.469,0.84,0.777,3.58E-06,0.216,-6.399,0.0451,121.633,4
+148,I Don't Want to Lose You,Pick of the Litter,The Spinners,1975,225466,42,0.526,0.865,0.526,0.296,0.00149,0.0868,-13.353,0.0261,133.423,4
+149,One of a Kind (Love Affair),Spinners,The Spinners,1973,214146,40,0.608,0.263,0.608,0.428,0,0.093,-11.625,0.109,176.735,4
+150,Don't Leave Me This Way (feat. Teddy Pendergrass),Wake Up Everybody (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-11-75,363973,61,0.472,0.278,0.472,0.71,1.36E-06,0.103,-8.852,0.0599,120.052,4
+151,Wake Up Everybody (feat. Teddy Pendergrass),Wake Up Everybody (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-11-75,452773,60,0.565,0.426,0.565,0.644,0,0.264,-8.116,0.0696,97.716,4
+152,If You Don't Know Me by Now (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-01-72,205906,57,0.345,0.721,0.345,0.465,0.000371,0.582,-9.55,0.0355,94.983,3
+153,The Love I Lost (feat. Teddy Pendergrass),Black & Blue (Expanded Edition) (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-02-73,384613,54,0.665,0.119,0.665,0.859,0,0.0769,-4.532,0.0671,123.387,4
+154,Wake up Everybody (feat. Teddy Pendergrass),Satisfaction Guaranteed - The Best Of Harold Melvin & The Bluenotes,Harold Melvin & The Blue Notes,22-12-92,220400,36,0.529,0.801,0.529,0.367,0.000476,0.0939,-14.742,0.0522,97.405,4
+155,Bad Luck (feat. Teddy Pendergrass),To Be True (Expanded Edition) (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-03-74,386426,47,0.611,0.0226,0.611,0.634,0,0.145,-12.988,0.1,118.986,4
+156,The Love I Lost (feat. Teddy Pendergrass) - Single Version,Black & Blue (Expanded Edition) (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-02-73,213853,43,0.62,0.146,0.62,0.869,6.48E-06,0.576,-4.514,0.0499,123.573,4
+157,I Miss You (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-01-72,518000,42,0.438,0.641,0.438,0.528,4.46E-05,0.582,-9.385,0.0424,129.893,4
+158,You Know How to Make Me Feel so Good (feat. Sharon Paige),Wake Up Everybody (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-11-75,316893,39,0.528,0.58,0.528,0.444,0,0.372,-11.824,0.0279,90.575,4
+159,Hope That We Can Be Together Soon (feat. Sharon Paige),To Be True (Expanded Edition) (feat. Teddy Pendergrass),Harold Melvin & The Blue Notes,01-03-74,222000,36,0.576,0.0492,0.576,0.444,4.02E-06,0.0994,-15.514,0.0704,61.753,4
+160,Heaven Must Be Missing An Angel - Pt. 1,It Only Takes a Minute: A Lifetime with Tavares,Tavares,01-01-96,389760,58,0.605,0.0266,0.605,0.881,3.28E-06,0.81,-4.891,0.0462,117.178,4
+161,More Than A Woman - Remastered,Anthology,Tavares,01-01-04,208000,57,0.702,0.185,0.702,0.803,0,0.562,-9.129,0.0418,108.499,4
+162,Don't Take Away The Music,Anthology,Tavares,01-01-04,373226,46,0.722,0.0276,0.722,0.858,1.84E-05,0.311,-8.009,0.0472,127.512,4
+163,Heaven Must Be Missing an Angel - Radio Edit,Heaven Must be Missing an Angel / More Than a Woman,Tavares,01-01-94,233880,46,0.68,0.00145,0.68,0.576,0.0765,0.0551,-13.531,0.0343,119.591,4
+164,It Only Takes A Minute,In The City,Tavares,05-07-75,241386,38,0.642,0.104,0.642,0.664,0.102,0.658,-8.087,0.0334,122.598,4
+165,A Penny for Your Thoughts,New Directions (Bonus Track Version),Tavares,05-11-10,270066,42,0.537,0.6,0.537,0.469,0,0.109,-7.941,0.0324,136.536,4
+166,Hard Core Poetry - Remastered,Anthology,Tavares,01-01-04,266600,37,0.392,0.634,0.392,0.319,0.000214,0.26,-11.837,0.0287,127.449,4
+167,Never Had A Love Like This Before,Anthology,Tavares,01-01-04,274693,36,0.716,0.695,0.716,0.509,1.35E-06,0.221,-9.89,0.0652,94.422,4
+168,In The Eyes Of Love,In The City,Tavares,05-07-75,224160,13,0.426,0.76,0.426,0.399,0.271,0.235,-9.256,0.0287,117.139,4
+169,Free Ride,In The City,Tavares,05-07-75,177933,5,0.621,0.157,0.621,0.7,0.385,0.0708,-7.916,0.0392,122.713,4
+170,Purple Rain,Purple Rain,Prince,25-06-84,520786,75,0.367,0.0353,0.367,0.452,0.00228,0.689,-10.422,0.0307,113.066,4
+171,Kiss,Parade - Music from the Motion Picture Under the Cherry Moon,Prince,31-03-86,226240,73,0.898,0.0135,0.898,0.271,0.00138,0.0461,-12.238,0.091,111.485,4
+172,When Doves Cry,Purple Rain,Prince,25-06-84,352906,72,0.729,0.0102,0.729,0.989,4.45E-05,0.443,-4.613,0.049,126.47,4
+173,Raspberry Beret,Around the World in a Day,Prince,22-04-85,215173,66,0.761,0.21,0.761,0.67,0.000426,0.0685,-12.759,0.0438,120.752,4
+174,Let's Go Crazy,Purple Rain,Prince,25-06-84,280000,64,0.309,0.0192,0.309,0.93,0.0022,0.106,-6.399,0.125,195.815,4
+175,1999,1999,Prince,27-10-82,379266,63,0.866,0.137,0.866,0.73,0,0.0843,-8.201,0.0767,118.523,4
+176,I Would Die 4 U,Purple Rain,Prince,25-06-84,178986,61,0.731,0.0862,0.731,0.75,0.000388,0.202,-10.457,0.0321,135.406,4
+177,I Wanna Be Your Lover,Prince,Prince,19-10-79,347666,60,0.812,0.0399,0.812,0.507,0.0831,0.0671,-8.825,0.0452,114.832,4
+178,Welcome 2 America,Welcome 2 America,Prince,08-04-21,323813,60,0.528,0.437,0.528,0.314,6.37E-05,0.352,-15.118,0.223,169.854,3
+179,"Little Red Corvette (7"" Edit) - 2019 Remaster",1999 (Super Deluxe Edition),Prince,29-11-19,188373,42,0.788,0.148,0.788,0.81,1.23E-05,0.84,-6.176,0.0877,123.007,4
+180,Relight My Fire - Single Version,Relight My Fire (Expanded Edition),Dan Hartman,01-06-79,225893,54,0.787,0.0148,0.787,0.662,0,0.328,-11.447,0.0378,119.734,4
+181,Instant Replay,Instant Replay (Expanded Edition),Dan Hartman,01-06-78,320480,36,0.73,0.0296,0.73,0.723,3.47E-05,0.0552,-7.545,0.0682,128.996,4
+182,Vertigo/Relight My Fire,Keep The Fire Burnin',Dan Hartman,1994,682866,43,0.739,0.00852,0.739,0.829,0.674,0.285,-5.337,0.0346,120.856,4
+183,"Relight My Fire - 12"" Disco Remix",Relight My Fire (Expanded Edition),Dan Hartman,01-06-79,406213,38,0.767,0.0477,0.767,0.783,5.97E-06,0.0709,-10.406,0.0368,120.611,4
+184,We Are the Young,Keep The Fire Burnin',Dan Hartman,1994,257733,33,0.661,0.000832,0.661,0.898,2.93E-06,0.0686,-6.234,0.0419,115.046,4
+185,Vertigo / Relight My Fire,Relight My Fire,Dan Hartman,02-05-79,584373,29,0.732,0.155,0.732,0.828,0.000623,0.191,-10.122,0.0301,120.55,4
+186,Free Ride,Keep The Fire Burnin',Dan Hartman,1994,422706,28,0.733,0.0482,0.733,0.963,0.329,0.126,-4.364,0.0374,126.961,4
+187,Living In America,Keep The Fire Burnin',Dan Hartman,1994,427266,12,0.785,0.00114,0.785,0.813,0.0275,0.0529,-6.18,0.0357,113.438,4
+188,Instant Replay,Keep The Fire Burnin',Dan Hartman,1994,320333,44,0.754,0.0158,0.754,0.724,0.000405,0.0611,-6.058,0.0656,128.925,4
+189,On the Telephone,Images,Dan Hartman,1976,261546,3,0.63,0.289,0.63,0.947,7.96E-06,0.137,-5.293,0.0332,140.921,4
+190,Runaway,Anthology Vol. 2,The Salsoul Orchestra,1975,285933,37,0.674,0.0804,0.674,0.767,0.000312,0.0788,-7.268,0.0747,109.8,4
+191,Getaway,Anthology Vol. 2,The Salsoul Orchestra,1975,258973,34,0.681,0.153,0.681,0.904,0.892,0.0556,-7.384,0.0552,108.896,4
+192,Ooh I Love It (Love Break) - Late Nite Tuff Guy Muscle Radio Edit,Ooh I Love It (Love Break) [Late Nite Tuff Guy Reworks],The Salsoul Orchestra,06-12-19,211644,31,0.852,0.000528,0.852,0.764,0.283,0.0416,-8.663,0.0653,116.992,4
+193,Ooh I Love It (Love Break),Anthology Vol. 2,The Salsoul Orchestra,1975,469800,28,0.68,0.000623,0.68,0.758,0.592,0.296,-10.755,0.0722,117.63,4
+194,"Chicago Bus Stop (Ooh, I Love It) - DJ Spinna ReFreak","Chicago Bus Stop (Ooh, I Love It) [DJ Spinna ReFreak]",The Salsoul Orchestra,15-06-18,460438,27,0.808,0.00158,0.808,0.478,0.081,0.0984,-10.081,0.0403,117.004,4
+195,Run Away,Magic Journey,The Salsoul Orchestra,01-01-77,284613,26,0.665,0.0705,0.665,0.774,0.000518,0.103,-7.487,0.066,109.798,4
+196,Tangerine,Anthology Vol. 1,The Salsoul Orchestra,1975,280866,24,0.598,0.00374,0.598,0.594,0.306,0.128,-12.706,0.0355,123.177,4
+197,How High,Anthology Vol. 2,The Salsoul Orchestra,1975,376306,16,0.73,0.0875,0.73,0.805,0.058,0.0823,-8.276,0.0528,126.625,4
+198,It's a New Day,Magic Journey,The Salsoul Orchestra,01-01-77,183042,7,0.618,0.08,0.618,0.9,0.00104,0.2,-7.842,0.299,136.738,4
+199,Magic Bird of Fire,Magic Journey,The Salsoul Orchestra,01-01-77,302602,8,0.696,0.00658,0.696,0.787,0.839,0.367,-7.819,0.0327,127.898,4
+200,And the Beat Goes On,The Whispers / Happy Holidays to You,The Whispers,01-01-79,296026,58,0.8,0.0711,0.8,0.608,0.000361,0.0466,-9.777,0.112,113.196,4
+201,It's A Love Thing,The Complete Solar Hit Singles Collection,The Whispers,08-09-14,228573,51,0.807,0.274,0.807,0.785,1.04E-05,0.266,-7.718,0.12,117.725,4
+202,Keep On Lovin' Me,Love Is Where You Find It / Love For Love,The Whispers,2013,340960,41,0.825,0.00693,0.825,0.401,0.412,0.0699,-12.298,0.0369,111.569,4
+203,And the Beat Goes On - Single Edit,The Whispers / Happy Holidays to You,The Whispers,01-01-79,206893,44,0.815,0.0806,0.815,0.482,0.00194,0.0417,-10.577,0.132,115.273,4
+204,Rock Steady,The Complete Solar Hit Singles Collection,The Whispers,08-09-14,285053,42,0.928,0.00714,0.928,0.787,2.80E-05,0.0395,-8.746,0.0614,116.375,4
+205,Is It Good To You,More Of The Night,The Whispers,01-01-90,376706,40,0.732,0.357,0.732,0.48,7.24E-05,0.194,-12.382,0.0332,146.009,4
+206,Say Yes,Best Slow Jams - Volume One,The Whispers,01-01-08,319546,39,0.611,0.578,0.611,0.425,1.53E-05,0.0603,-11.332,0.0472,120.15,3
+207,How Long,How Long,The Whispers,10-07-20,248946,37,0.703,0.315,0.703,0.781,4.23E-06,0.0974,-5.585,0.0563,107.971,4
+208,Hello Stranger,The Complete Solar Hit Singles Collection,The Whispers,08-09-14,349200,33,0.756,0.666,0.756,0.38,0.000207,0.095,-12.82,0.0279,98.25,4
+209,Keep On Loving Me,And the Beat Goes On,The Whispers,1999,349466,33,0.785,0.00207,0.785,0.392,0.431,0.0703,-14.075,0.0371,110.849,4
+210,Love Train,Back Stabbers,The O'Jays,01-01-72,178400,69,0.744,0.186,0.744,0.568,1.18E-05,0.163,-9.629,0.0494,122.657,4
+211,Now That We Found Love,Ship Ahoy (Expanded Edition),The O'Jays,1973,281200,62,0.719,0.251,0.719,0.645,4.09E-06,0.273,-8.405,0.0387,113.965,4
+212,Back Stabbers,Back Stabbers,The O'Jays,01-01-72,186093,56,0.751,0.317,0.751,0.714,0,0.639,-11.614,0.0374,124.379,4
+213,For the Love of Money,Ship Ahoy (Expanded Edition),The O'Jays,1973,439866,54,0.679,0.236,0.679,0.802,2.33E-06,0.132,-7.739,0.0406,97.375,4
+214,Use ta Be My Girl,The Essential O'Jays,The O'Jays,10-06-08,198173,53,0.65,0.528,0.65,0.614,0,0.167,-7.367,0.0522,111.477,4
+215,I Love Music,Family Reunion (Expanded Edition),The O'Jays,01-11-75,413066,52,0.643,0.0523,0.643,0.838,6.15E-05,0.328,-8.063,0.0455,127.612,4
+216,Forever Mine,Identify Yourself,The O'Jays,01-01-79,366226,52,0.478,0.289,0.478,0.416,0,0.145,-11.85,0.0592,178.186,3
+217,Lovin' You,Let Me Touch You,The O'Jays,01-01-87,318253,48,0.623,0.611,0.623,0.409,2.54E-06,0.2,-10.802,0.0357,74.75,4
+218,"Darlin' Darlin' Baby (Sweet, Tender, Love)",Message In The Music,The O'Jays,01-01-76,256240,46,0.668,0.454,0.668,0.739,0,0.111,-6.906,0.0391,107.942,4
+219,Cry Together,So Full Of Love,The O'Jays,29-10-78,333453,45,0.344,0.742,0.344,0.299,0,0.178,-11.311,0.0614,180.521,3
+220,Hung Up,Confessions on a Dance Floor,Madonna,11-11-05,337733,75,0.649,0.0039,0.649,0.647,0.161,0.0686,-7.695,0.0452,125.02,4
+221,Material Girl,Celebration (double disc version),Madonna,18-09-09,240280,72,0.742,0.333,0.742,0.883,7.51E-06,0.0964,-3.419,0.0329,136.506,4
+222,Like a Prayer,Celebration (double disc version),Madonna,18-09-09,342680,72,0.624,0.264,0.624,0.842,2.11E-05,0.181,-5.285,0.0376,111.037,4
+223,Like a Virgin,Like a Virgin (Reissue),Madonna,12-11-84,218626,72,0.771,0.152,0.771,0.655,0.00197,0.0685,-10.842,0.0372,119.747,4
+224,La Isla Bonita,True Blue (Reissue),Madonna,30-06-86,242320,71,0.725,0.302,0.725,0.612,1.63E-05,0.0548,-10.706,0.0372,99.978,4
+225,4 Minutes (feat. Justin Timberlake & Timbaland),Celebration (double disc version),Madonna,18-09-09,189693,70,0.753,0.00994,0.753,0.931,0.00696,0.234,-4.922,0.0652,113.029,4
+226,Vogue,The Immaculate Collection,Madonna,09-11-90,317080,61,0.748,0.00348,0.748,0.84,0.00647,0.44,-7.701,0.0421,115.997,4
+227,Papa Don't Preach,True Blue (Reissue),Madonna,30-06-86,345280,65,0.807,0.311,0.807,0.906,0.000791,0.0248,-8.973,0.0371,121.54,4
+228,Like a Prayer,Like a Prayer,Madonna,21-03-89,340866,65,0.66,0.432,0.66,0.629,7.30E-05,0.172,-12.359,0.0387,111.926,4
+229,Crazy for You - Edit,The Immaculate Collection,Madonna,09-11-90,225626,58,0.672,0.168,0.672,0.549,0,0.102,-11.93,0.029,95.01,4
+230,A Night To Remember,A Night to Remember,Shalamar,01-01-99,211253,59,0.77,0.298,0.77,0.827,0.000357,0.199,-8.754,0.0369,109.058,4
+231,I Can Make You Feel Good,A Night to Remember,Shalamar,01-01-99,256773,55,0.706,0.19,0.706,0.7,5.25E-06,0.0736,-10.251,0.0289,112.805,4
+232,There It Is,A Night To Remember,Shalamar,1999,265360,52,0.758,0.441,0.758,0.67,0.00195,0.105,-10.759,0.0335,102.908,4
+233,The Second Time Around,The Very Best Of,Shalamar,01-01-00,223106,46,0.748,0.405,0.748,0.743,5.66E-06,0.125,-5.996,0.0433,112.184,4
+234,Make That Move,The Very Best Of,Shalamar,01-01-00,225986,42,0.785,0.185,0.785,0.748,6.04E-05,0.0851,-8.965,0.0991,116.915,4
+235,A Mix to Remember - 12'' Version,Nights to Remember,Shalamar,01-01-02,459986,35,0.576,0.0607,0.576,0.756,0.000804,0.242,-8.007,0.0603,108.582,4
+236,Friends,Friends / Go For It,Shalamar,01-01-02,300706,34,0.776,0.0455,0.776,0.733,0.0283,0.0756,-8.478,0.0354,120.331,4
+237,Take That to the Bank,A Night to Remember,Shalamar,01-01-99,204280,34,0.682,0.238,0.682,0.905,2.31E-05,0.0672,-9.396,0.0716,117.431,4
+238,Dancing In the Sheets,The Very Best Of,Shalamar,01-01-00,225586,11,0.756,0.0667,0.756,0.699,0.0643,0.0635,-7.954,0.0634,123.005,4
+239,Over and Over,Shalamar: Original Hits,Shalamar,20-03-06,273133,14,0.745,0.037,0.745,0.614,0,0.127,-9.055,0.0356,106.898,4
+240,Your Love - Radio Edit,Your Love,Lime,1981,242733,58,0.771,0.00213,0.771,0.752,0.713,0.0414,-8.49,0.0378,138.161,4
+241,Your Love - Remix,Your Love,Lime,1981,421973,47,0.799,0.00101,0.799,0.711,0.853,0.0827,-8.786,0.0474,137.992,4
+242,"Babe, We're Gonna Love Tonight",Lime II,Lime,01-01-82,414600,47,0.745,0.118,0.745,0.767,0.0448,0.623,-11.859,0.0332,131.674,4
+243,Unexpected Lovers - Original,Unexpected Lovers,Lime,01-01-85,393066,43,0.677,1.01E-05,0.677,0.649,0.452,0.0761,-10.521,0.0351,128.379,4
+244,Come and Get Your Love,Lime II,Lime,01-01-82,487240,39,0.757,0.0425,0.757,0.659,0.12,0.065,-10.724,0.0343,131.881,4
+245,"Babe, We're Gonna Love Tonight - Jacques Greene Remix","Babe, We’re Gonna Love Tonight (Jacques Greene Remix)",Lime,19-03-21,221373,38,0.654,0.104,0.654,0.64,0.94,0.105,-10.26,0.0336,127.997,4
+246,Guilty,Lime 3,Lime,01-01-83,457533,37,0.686,0.00325,0.686,0.729,1.81E-05,0.0868,-12.444,0.0362,124.691,4
+247,Your Love - Album Mix,Your Love,Lime,1981,437106,34,0.771,0.0048,0.771,0.772,0.741,0.0793,-9.741,0.0363,137.655,4
+248,I Don't Wanna Lose You - Club Mix,Sensual Sensation,Lime,01-01-84,454293,33,0.769,3.78E-05,0.769,0.57,0.265,0.0987,-10.346,0.035,123.125,4
+249,Angel Eyes,Lime 3,Lime,01-01-83,468866,31,0.7,0.00914,0.7,0.721,0.000839,0.0599,-13.696,0.055,121.785,4
+250,You Make Me Feel Brand New,Rockin' Roll Baby,The Stylistics,23-10-73,288440,63,0.451,0.847,0.451,0.359,2.97E-05,0.137,-8.567,0.0247,76.015,4
+251,You Are Everything,Greatest Hits,The Stylistics,01-01-92,174400,49,0.509,0.921,0.509,0.482,5.11E-05,0.327,-13.7,0.0365,141.973,4
+252,Betcha by Golly Wow,Hits 100% The Stylistics,The Stylistics,17-10-14,253004,41,0.384,0.36,0.384,0.56,0.000126,0.495,-9.624,0.0298,72.077,4
+253,Break Up To Make Up,The Best Of The Stylistics,The Stylistics,1974,236266,36,0.591,0.949,0.591,0.265,0.00214,0.175,-12.399,0.0243,79.515,3
+254,"Stop, Look, Listen (To Your Heart)",The Stylistics - The Original Debut Album,The Stylistics,01-01-73,172946,46,0.446,0.818,0.446,0.472,0.000677,0.465,-9.042,0.0267,75.49,4
+255,People Make The World Go Round,The Stylistics - The Original Debut Album,The Stylistics,01-01-73,211560,39,0.72,0.656,0.72,0.489,2.35E-06,0.357,-9.157,0.0544,83.129,4
+256,Can't Give You Anything (But My Love),The Best Of The Stylistics,The Stylistics,1974,194666,44,0.524,0.431,0.524,0.809,5.17E-05,0.581,-7.556,0.0585,112.821,4
+257,Hurry Up This Way Again,Hurry Up This Way Again,The Stylistics,1980,353680,44,0.765,0.279,0.765,0.572,0.000416,0.0669,-9.14,0.0508,149.829,4
+258,Ebony Eyes,The Stylistics - The Original Debut Album,The Stylistics,01-01-73,138893,42,0.774,0.729,0.774,0.497,0.000169,0.0843,-9.253,0.0299,109.94,4
+259,I'm Stone In Love With You,The Best Of The Stylistics,The Stylistics,1974,198760,41,0.668,0.675,0.668,0.356,0.00023,0.0725,-11.645,0.0243,97.95,4
+260,Intimate Friends,Slick,Eddie Kendricks,01-08-77,353453,51,0.52,0.439,0.52,0.516,0.000299,0.0614,-9.996,0.0259,149.959,4
+261,Keep On Truckin',Eddie Kendricks,Eddie Kendricks,01-01-73,479413,46,0.45,0.122,0.45,0.81,0.00963,0.0412,-9.762,0.0472,101.568,4
+262,Day By Day,People... Hold On,Eddie Kendricks,01-01-72,197040,37,0.433,0.465,0.433,0.535,2.32E-05,0.24,-11.678,0.0315,74.043,4
+263,My People...Hold On,People... Hold On,Eddie Kendricks,01-01-72,340200,36,0.489,0.629,0.489,0.477,0.0014,0.0763,-13.62,0.114,144.854,4
+264,Girl You Need A Change Of Mind,People... Hold On,Eddie Kendricks,01-01-72,462493,35,0.472,0.143,0.472,0.724,0.0148,0.285,-12.56,0.0405,104.035,4
+265,Skippin' Work Today,The Hit Man,Eddie Kendricks,01-07-75,277013,28,0.589,0.661,0.589,0.424,0.162,0.704,-12.161,0.0509,142.023,4
+266,Date With The Rain,People... Hold On,Eddie Kendricks,01-01-72,160906,27,0.619,0.353,0.619,0.723,0,0.122,-12.351,0.128,123.132,4
+267,If You Let Me,People... Hold On,Eddie Kendricks,01-01-72,201600,25,0.53,0.502,0.53,0.565,0,0.313,-11.812,0.0904,77.439,4
+268,Any Day Now,Eddie Kendricks,Eddie Kendricks,01-01-73,308360,11,0.442,0.171,0.442,0.582,5.03E-05,0.0653,-11.108,0.0333,147.518,4
+269,Boogie Down,Boogie Down,Eddie Kendricks,01-02-74,419226,12,0.741,0.637,0.741,0.602,0.702,0.114,-11.615,0.0352,115.004,4
+270,You Make Me Feel (Mighty Real),Step II,Sylvester,01-01-78,400115,61,0.629,0.0309,0.629,0.851,0.303,0.0947,-11.182,0.0294,130.7,4
+271,I Need Somebody To Love Tonight,Stars,Sylvester,1979,411346,45,0.73,0.798,0.73,0.356,0.895,0.0736,-17.845,0.0749,104.903,4
+272,You Make Me Feel (Mighty Real) - Michael Gray Radio Edit,You Make Me Feel (Mighty Real),Sylvester,31-05-19,166538,41,0.737,0.000567,0.737,0.888,0.0062,0.273,-5.193,0.0656,124.018,4
+273,Over And Over,Sylvester,Sylvester,1977,422133,40,0.481,0.00975,0.481,0.63,0.000666,0.109,-8.18,0.0344,131.466,4
+274,You Make Me Feel (Mighty Real) - Michael Gray Remix,You Make Me Feel (Mighty Real) [Michael Gray Remixes],Sylvester,14-06-19,452459,39,0.779,0.000373,0.779,0.844,0.146,0.0456,-5.977,0.0628,124.001,4
+275,"Dance (Disco Heat) - 12"" Version",Mighty Real: Greatest Dance Hits,Sylvester,01-01-13,498973,38,0.689,0.0652,0.689,0.836,0.382,0.261,-9.592,0.0282,132.952,4
+276,Dance (Disco Heat),Step II,Sylvester,01-01-78,355263,36,0.768,0.007,0.768,0.79,0.186,0.0678,-10.469,0.0312,132.729,4
+277,I Need You,Sell My Soul,Sylvester,1980,276373,32,0.743,0.404,0.743,0.756,0.0928,0.0919,-13.946,0.037,121.738,4
+278,Don't Stop,Do Ya Wanna Funk,Sylvester,01-01-82,411853,32,0.744,0.0174,0.744,0.751,0.0002,0.502,-8.236,0.0511,129.837,4
+279,Rock the Box,Rock the Box,Sylvester,01-01-84,300773,28,0.689,0.0102,0.689,0.725,0.382,0.108,-8.893,0.0448,124.257,4
+280,Super Freak,Street Songs (Deluxe Edition),Rick James,07-04-81,205466,73,0.838,0.22,0.838,0.794,0,0.0575,-8.245,0.0531,132.446,4
+281,Give It To Me Baby,Street Songs (Deluxe Edition),Rick James,07-04-81,248133,64,0.706,0.114,0.706,0.727,7.70E-05,0.174,-8.714,0.0456,119.55,4
+282,Mary Jane,Come Get It! (Expanded Edition),Rick James,20-04-78,297346,63,0.537,0.256,0.537,0.82,1.93E-06,0.432,-7.011,0.127,94.429,4
+283,Fire And Desire,Street Songs (Deluxe Edition),Rick James,07-04-81,437933,53,0.335,0.424,0.335,0.455,3.73E-06,0.109,-10.051,0.0371,82.046,4
+284,Ghetto Life,Street Songs (Deluxe Edition),Rick James,07-04-81,261000,52,0.758,0.354,0.758,0.716,0,0.126,-8.609,0.0875,116.648,4
+285,Ebony Eyes,Cold Blooded (Expanded Edition),Rick James,05-08-83,307640,50,0.522,0.147,0.522,0.536,0,0.123,-7.132,0.026,140.311,4
+286,Cold Blooded,Cold Blooded (Expanded Edition),Rick James,05-08-83,359280,46,0.939,0.0172,0.939,0.487,0.0124,0.05,-7.641,0.153,117.637,4
+287,Bustin' Out (On Funk),The Definitive Collection,Rick James,14-03-06,232626,43,0.726,0.181,0.726,0.698,1.04E-06,0.227,-9.761,0.109,102.955,4
+288,You And I,Come Get It! (Expanded Edition),Rick James,20-04-78,486026,43,0.782,0.297,0.782,0.874,0.00327,0.572,-6.651,0.0759,119.378,4
+289,Love Gun,The Definitive Collection,Rick James,14-03-06,237746,17,0.73,0.00473,0.73,0.896,0.00501,0.107,-8.796,0.0577,122.145,4
+290,A Lover's Holiday - Single Version,The Glow of Love (Original Album and Rare Tracks),Change,1980,253053,53,0.934,0.0303,0.934,0.646,0.00614,0.0776,-5.727,0.228,116.351,4
+291,Hold Tight - Full Length Album Mix,Miracles (Original Album and Rare Tracks),Change,1981,268653,52,0.767,0.257,0.767,0.79,1.01E-06,0.152,-5.495,0.0846,115.03,5
+292,The Glow of Love,The Glow of Love (Original Album and Rare Tracks),Change,1980,373240,51,0.697,0.302,0.697,0.899,5.37E-06,0.168,-4.38,0.105,118.116,3
+293,A Lover's Holiday - A Jim Burgess Mix,The Glow of Love (Original Album and Rare Tracks),Change,1980,384813,44,0.921,0.0287,0.921,0.607,0.0297,0.0837,-6.047,0.216,116.335,4
+294,Searching,The Glow of Love (Original Album and Rare Tracks),Change,1980,483093,41,0.778,0.0405,0.778,0.683,0.00141,0.045,-6.849,0.0562,127.572,4
+295,Heaven of My Life - Full Length Album Mix,Miracles (Original Album and Rare Tracks),Change,1981,338453,39,0.855,0.135,0.855,0.82,0.0005,0.167,-4.681,0.159,112.482,4
+296,Change of Heart - Full Length Album Mix,Change of Heart (Original Album and Rare Tracks),Change,1984,426413,38,0.767,0.0131,0.767,0.859,0.00191,0.0377,-6.878,0.0611,107.383,4
+297,Hold Tight - Long Version,Miracles (Original Album),Change,1981,311413,34,0.813,0.385,0.813,0.624,4.09E-05,0.0691,-11.528,0.0907,114.873,5
+298,Hold Tight (Edit) - Remastered,The Glow of Love / Miracles (Special Expanded Edition),Change,04-01-13,237706,34,0.764,0.271,0.764,0.778,0,0.307,-5.924,0.0999,115.013,5
+299,"Let's Go Together - 12"" Nuovi Fratelli Dance Mix","Let's Go Together (12"" Nuovi Fratelli Dance Mix)",Change,28-02-20,481400,33,0.788,0.0744,0.788,0.415,0.144,0.0724,-12.419,0.0791,98.408,4
+300,This Old Heart Of Mine (Is Weak For You),This Old Heart Of Mine,The Isley Brothers,1966,172733,63,0.632,0.346,0.632,0.59,0,0.24,-10.206,0.0305,130.287,4
+301,"Footsteps in the Dark, Pts. 1 & 2",Go for Your Guns,The Isley Brothers,21-08-77,306800,63,0.679,0.402,0.679,0.374,2.49E-05,0.0541,-10.565,0.0482,80.86,4
+302,Between the Sheets,Between the Sheets,The Isley Brothers,21-08-83,340013,62,0.719,0.661,0.719,0.377,0,0.0902,-12.585,0.0974,83.919,4
+303,It's Your Thing,It's Our Thing,The Isley Brothers,21-08-69,169293,62,0.376,0.0727,0.376,0.67,2.52E-06,0.0718,-9.273,0.0854,185.503,4
+304,"Shout, Pts. 1 & 2",Shout!,The Isley Brothers,21-08-59,268560,62,0.489,0.753,0.489,0.866,0,0.876,-7.433,0.0933,138.63,4
+305,Love the One You're With,Givin' It Back,The Isley Brothers,21-08-71,223520,61,0.75,0.367,0.75,0.78,2.67E-06,0.153,-7.861,0.036,94.864,4
+306,Twist And Shout,Twist & Shout,The Isley Brothers,1962,155400,59,0.774,0.65,0.774,0.811,0,0.0736,-6.526,0.0355,123.351,4
+307,"That Lady, Pts. 1 & 2",3+3,The Isley Brothers,21-08-73,334386,57,0.344,0.261,0.344,0.769,0.000122,0.335,-9.112,0.0606,126.318,4
+308,"For the Love of You, Pts. 1 & 2",The Heat Is On,The Isley Brothers,21-08-75,339960,57,0.686,0.665,0.686,0.374,1.91E-05,0.101,-11.029,0.0439,102.879,4
+309,"Summer Breeze, Pts. 1 & 2",3+3,The Isley Brothers,21-08-73,371706,56,0.31,0.212,0.31,0.629,0.00894,0.122,-10.057,0.0484,152.276,4
+310,"Touch and Go - 12"" Version","Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,305986,22,0.722,0.079,0.722,0.859,0.00142,0.0616,-7.741,0.147,113.332,4
+311,Ask Me,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,243426,18,0.722,0.0912,0.722,0.745,0.00147,0.111,-8.516,0.0475,116.727,4
+312,Touch and Go,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,259440,16,0.703,0.0488,0.703,0.62,0.000649,0.0447,-10.218,0.0689,110.211,4
+313,Good Things Don't Last Forever,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,220000,13,0.705,0.0299,0.705,0.681,2.49E-05,0.0588,-8.734,0.0829,119.89,4
+314,Born to Lose You,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,216960,11,0.535,0.238,0.535,0.404,4.23E-05,0.0847,-10.929,0.0437,124.032,3
+315,I Wouldn't Give You Up,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,205573,8,0.807,0.156,0.807,0.638,0.000121,0.0577,-9.206,0.0534,117.447,4
+316,Don't Burn Your Bridges Behind You,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,278346,7,0.724,0.297,0.724,0.489,1.90E-06,0.0691,-10.972,0.0593,117.943,4
+317,I'll Do Anything for You,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,183546,4,0.689,0.034,0.689,0.667,5.94E-06,0.0412,-9.547,0.0325,121.223,4
+318,One Beautiful Day,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,177213,4,0.748,0.0538,0.748,0.62,4.65E-06,0.0503,-9.284,0.0457,121.36,4
+319,Dance the Night Away,"Ecstasy, Passion & Pain","Ecstasy, Passion & Pain",12-07-05,299600,3,0.684,0.0122,0.684,0.493,0,0.342,-10.099,0.0617,116.07,4
+320,Love Come Down - Single Version,"The Best Of Evelyn ""Champagne"" King","Evelyn ""Champagne"" King",09-04-90,220626,56,0.88,0.0187,0.88,0.395,3.24E-05,0.0571,-14.629,0.102,117.161,4
+321,Love Come Down,Get Loose (Expanded Edition),"Evelyn ""Champagne"" King",11-08-82,365760,33,0.907,0.00621,0.907,0.624,0.00109,0.032,-5.907,0.0455,115.741,4
+322,"Shame - 12"" Disco Version","The Best Of Evelyn ""Champagne"" King","Evelyn ""Champagne"" King",09-04-90,391360,46,0.784,0.0135,0.784,0.506,0.269,0.0705,-15.608,0.0517,134.517,4
+323,I'm In Love,Platinum & Gold Collection,"Evelyn ""Champagne"" King",05-05-03,302133,36,0.914,0.0614,0.914,0.403,0.102,0.426,-11.257,0.0968,114.92,4
+324,The Show Is Over,Smooth Talk (Expanded Edition),"Evelyn ""Champagne"" King",22-10-77,342400,40,0.49,0.225,0.49,0.605,0.0136,0.0551,-8.285,0.0406,178.508,4
+325,I Think My Heart Is Telling,Music Box (Expanded Edition),"Evelyn ""Champagne"" King",19-03-79,259546,38,0.738,0.406,0.738,0.494,0.00114,0.321,-11.928,0.0392,134.258,4
+326,"Love Come Down - 12"" Version",Get Loose (Expanded Edition),"Evelyn ""Champagne"" King",11-08-82,373746,31,0.861,0.00367,0.861,0.69,1.78E-05,0.0321,-5.18,0.0391,115.542,4
+327,Aquarius / Let the Sun Shine In,"The Essential Evelyn ""Champagne"" King","Evelyn ""Champagne"" King",23-03-15,552360,36,0.811,0.00455,0.811,0.631,0.11,0.0466,-9.468,0.0865,117.918,4
+328,Betcha She Don't Love You,Get Loose (Expanded Edition),"Evelyn ""Champagne"" King",11-08-82,298973,17,0.977,0.00283,0.977,0.51,0.00067,0.0892,-6.091,0.0464,108.452,4
+329,Get Loose,Get Loose (Expanded Edition),"Evelyn ""Champagne"" King",11-08-82,283000,34,0.945,0.0657,0.945,0.552,0.00011,0.123,-7.183,0.0727,114.476,4
+330,Supernature,"Cerrone I, II, III",Cerrone,27-10-14,585374,53,0.619,0.00219,0.619,0.948,0.22,0.199,-6.641,0.0432,123.016,4
+331,Give Me Love,"Cerrone I, II, III",Cerrone,27-10-14,462000,51,0.802,0.277,0.802,0.864,0.00605,0.0554,-6.768,0.0848,127.11,4
+332,Supernature (Instrumental CLIMAX edit),Supernature (instrumental),Cerrone,07-09-18,210000,50,0.654,2.74E-05,0.654,0.955,0.911,0.0672,-6.851,0.0508,128.005,4
+333,Hooked on You - The Reflex Revision,The Remixes,Cerrone,04-05-15,461000,44,0.764,0.0285,0.764,0.655,0.677,0.149,-8.416,0.0529,108.006,4
+334,Experience (feat. Laylow),Experience (feat. Laylow),Cerrone,02-07-20,220336,41,0.661,0.0121,0.661,0.758,9.84E-05,0.191,-5.391,0.118,95.053,4
+335,Got To Have Loving,Don Ray - Garden of Love,Cerrone,27-10-14,499000,33,0.618,0.0224,0.618,0.808,0.00392,0.279,-5.812,0.042,124.286,4
+336,Time For Love,"Cerrone I, II, III",Cerrone,27-10-14,369500,19,0.636,0.693,0.636,0.585,6.63E-05,0.0713,-8.848,0.0271,130.155,4
+337,Standing In The Rain,Don Ray - Garden of Love,Cerrone,27-10-14,397500,13,0.691,0.113,0.691,0.972,0.0572,0.0739,-6.235,0.051,124.011,4
+338,Reach Out I Will Be There,Way-In,Cerrone,07-01-89,259133,1,0.642,0.00269,0.642,0.56,2.38E-05,0.137,-13.508,0.0349,119.972,4
+339,Real World,Way-In,Cerrone,07-01-89,285640,0,0.372,0.0191,0.372,0.765,0.904,0.245,-15.403,0.042,120.031,4
+340,Blame It on the Boogie,Destiny,The Jacksons,17-12-78,214200,70,0.774,0.0765,0.774,0.641,0,0.0867,-10.193,0.0799,113.256,4
+341,This Place Hotel (a.k.a. Heartbreak Hotel),Triumph,The Jacksons,26-09-80,343786,47,0.737,0.367,0.737,0.783,0.000187,0.107,-7.466,0.078,97.016,4
+342,"Shake Your Body (Down to the Ground) - 7"" Version",Destiny (Expanded Version),The Jacksons,12-02-21,227261,50,0.796,0.0528,0.796,0.72,0,0.337,-7.203,0.0763,117.401,4
+343,Torture,Victory,The Jacksons,02-07-84,293986,40,0.749,0.0655,0.749,0.828,1.94E-06,0.596,-6.776,0.0442,131.128,4
+344,Can You Feel It,Triumph,The Jacksons,26-09-80,359906,55,0.894,0.0833,0.894,0.607,0.000249,0.31,-8.274,0.0415,125.466,4
+345,Enjoy Yourself,The Jacksons,The Jacksons,05-11-76,204413,38,0.601,0.171,0.601,0.643,0,0.536,-8.912,0.224,203.669,4
+346,Shake Your Body (Down to the Ground),Destiny,The Jacksons,17-12-78,479440,49,0.82,0.0208,0.82,0.613,0.000101,0.372,-9.152,0.0606,117.602,4
+347,Can You Feel It - Jacksons X MLK Remix,Can You Feel It (Jacksons X MLK Remix),The Jacksons,19-03-21,455576,49,0.839,0.0124,0.839,0.905,0.000265,0.224,-4.879,0.0636,123.517,4
+348,Show You the Way to Go,The Jacksons,The Jacksons,05-11-76,327746,45,0.663,0.374,0.663,0.615,0.0266,0.642,-10.78,0.0323,109.442,4
+349,All Night Dancin',Destiny (Expanded Version),The Jacksons,12-02-21,369737,13,0.665,0.0031,0.665,0.886,0.00835,0.213,-7.877,0.0366,156.396,4
+350,"Signed, Sealed, Delivered (I'm Yours)","Signed, Sealed And Delivered",Stevie Wonder,07-08-70,161160,78,0.675,0.0534,0.675,0.597,0,0.0986,-11.329,0.0337,108.875,4
+351,I Just Called To Say I Love You,At The Close Of A Century,Stevie Wonder,23-11-99,262240,75,0.748,0.243,0.748,0.551,1.57E-06,0.0943,-9.054,0.0239,113.535,4
+352,Superstition,Talking Book,Stevie Wonder,28-10-72,266133,70,0.611,0.0598,0.611,0.578,0.0219,0.0983,-14.171,0.0676,100.625,4
+353,For Once In My Life,For Once In My Life,Stevie Wonder,01-12-68,169800,72,0.524,0.195,0.524,0.519,0,0.523,-11.903,0.043,110.121,4
+354,You Are The Sunshine Of My Life,Talking Book,Stevie Wonder,28-10-72,178200,71,0.519,0.823,0.519,0.46,5.97E-05,0.243,-14.53,0.0688,132.082,4
+355,Sir Duke,Songs In The Key Of Life,Stevie Wonder,28-09-76,232760,71,0.588,0.16,0.588,0.568,0,0.0792,-9.766,0.0672,106.938,4
+356,Isn't She Lovely,Songs In The Key Of Life,Stevie Wonder,28-09-76,394266,68,0.481,0.182,0.481,0.826,0.00352,0.324,-6.974,0.0851,118.679,4
+357,Part-Time Lover,In Square Circle,Stevie Wonder,13-09-85,252560,68,0.662,0.165,0.662,0.624,0,0.0674,-13.606,0.0417,174.513,4
+358,I Wish,Songs In The Key Of Life,Stevie Wonder,28-09-76,252373,65,0.821,0.0816,0.821,0.721,7.37E-06,0.0664,-10.401,0.0515,105.866,4
+359,My Cherie Amour,My Cherie Amour,Stevie Wonder,01-08-69,173306,65,0.574,0.228,0.574,0.507,4.57E-06,0.279,-11.343,0.0258,101.085,4
+360,Move on Up,Move on Up,Curtis Mayfield,1970,165789,70,0.538,0.417,0.538,0.969,0.00154,0.119,-5.626,0.0906,138.652,4
+361,Move on Up - Extended Version,Curtis (Expanded Edition),Curtis Mayfield,1970,535333,64,0.584,0.141,0.584,0.975,0.501,0.101,-6.534,0.0651,138.341,4
+362,Pusherman,Superfly (Soundtrack from the Motion Picture) [Deluxe 25th Anniversary Edition],Curtis Mayfield,1972,300693,59,0.85,0.238,0.85,0.669,0.0855,0.108,-9.562,0.0379,126.624,4
+363,Superfly,Superfly (Soundtrack from the Motion Picture) [Deluxe 25th Anniversary Edition],Curtis Mayfield,1972,240160,58,0.779,0.552,0.779,0.776,0.000108,0.0998,-7.393,0.138,119.899,4
+364,Here but I'm Gone,New World Order,Curtis Mayfield,07-01-97,318200,51,0.772,0.632,0.772,0.368,0.00714,0.121,-11.183,0.0496,143.834,4
+365,Freddie's Dead (Theme from 'Superfly'),Superfly (Soundtrack from the Motion Picture) [Deluxe 25th Anniversary Edition],Curtis Mayfield,1972,329466,49,0.523,0.105,0.523,0.804,0.000451,0.154,-6.322,0.0791,91.471,4
+366,The Makings of You,Curtis (Expanded Edition),Curtis Mayfield,1970,223866,49,0.367,0.758,0.367,0.431,8.89E-06,0.113,-11.191,0.0576,76.454,4
+367,So in Love,There's No Place Like America Today,Curtis Mayfield,01-05-75,314226,41,0.683,0.138,0.683,0.525,0.00482,0.105,-9.656,0.0436,120.585,4
+368,"(Don't Worry) If There Is a Hell Below, We're All Going to Go",Curtis (Expanded Edition),Curtis Mayfield,1970,470506,46,0.686,0.149,0.686,0.755,0.063,0.111,-8.304,0.0488,119.895,4
+369,We Got to Have Peace,Roots,Curtis Mayfield,1971,285866,40,0.555,0.0496,0.555,0.875,6.91E-05,0.113,-7.587,0.0471,91.96,4
+370,Runaway Love (Live),Live,Linda Clifford,01-01-78,464770,0,0.669,0.0104,0.669,0.699,0.000867,0.689,-8.769,0.167,108.344,4
+371,If My Friends Could See Me Now (Live),Live,Linda Clifford,01-01-78,318020,1,0.598,0.00308,0.598,0.756,8.15E-06,0.388,-6.467,0.0878,134.784,4
+372,Ain't No Love Lost,The Right Combination (Expanded Edition),Linda Clifford,01-09-80,268066,8,0.649,0.0539,0.649,0.728,0.00281,0.199,-8.98,0.0908,87.202,4
+373,I'm so Proud,The Right Combination (Expanded Edition),Linda Clifford,01-09-80,220160,4,0.431,0.294,0.431,0.441,0.000151,0.126,-11.98,0.0667,185.183,3
+374,Love's Sweet Sensation,The Right Combination (Expanded Edition),Linda Clifford,01-09-80,229800,5,0.649,0.202,0.649,0.445,0,0.111,-8.887,0.0435,108.724,3
+375,Between You Baby and Me,The Right Combination (Expanded Edition),Linda Clifford,01-09-80,284973,5,0.353,0.258,0.353,0.425,0,0.102,-10.538,0.127,176.812,3
+376,Hold Me Close - Bonus Track,The Right Combination (Expanded Edition),Linda Clifford,01-09-80,289973,4,0.804,0.0555,0.804,0.888,0.00047,0.0688,-8.662,0.0743,124.108,4
+377,"You Are, You Are - Bonus Track",The Right Combination (Expanded Edition),Linda Clifford,01-09-80,317133,6,0.645,0.0172,0.645,0.774,1.65E-06,0.0956,-9.112,0.0594,125.603,4
+378,"(It's Gonna Be) A Long, Long Winter - Bonus Track",The Right Combination (Expanded Edition),Linda Clifford,01-09-80,223733,3,0.416,0.345,0.416,0.561,0.000277,0.0997,-9.902,0.044,84.551,3
+379,I Can't Let This Good Thing Get Away - Bonus Track,The Right Combination (Expanded Edition),Linda Clifford,01-09-80,255693,4,0.641,0.0699,0.641,0.689,2.16E-05,0.196,-9.177,0.138,97.364,4
+380,Tell Me Something Good,Rags To Rufus,Rufus & Chaka Khan,01-01-74,277066,53,0.657,0.616,0.657,0.546,0,0.226,-9.738,0.269,73.131,4
+381,Do You Love What You Feel,Masterjam,Rufus & Chaka Khan,01-01-79,269306,47,0.808,0.022,0.808,0.773,0.0436,0.654,-11.4,0.0365,119.944,4
+382,Sweet Thing,The Very Best Of,Rufus & Chaka Khan,01-01-82,200840,44,0.685,0.905,0.685,0.283,0.425,0.135,-16.872,0.0565,80.263,4
+383,You Got The Love,Rags To Rufus,Rufus & Chaka Khan,01-01-74,278440,41,0.565,0.637,0.565,0.695,0.000401,0.256,-10.21,0.0803,97.246,4
+384,Heaven Bound,Masterjam,Rufus & Chaka Khan,01-01-79,227066,34,0.71,0.121,0.71,0.541,6.66E-06,0.0671,-14.663,0.0389,95.028,4
+385,Stay,Street Player,Rufus & Chaka Khan,01-01-78,339880,33,0.68,0.446,0.68,0.504,0.00273,0.0778,-11.15,0.0359,95.241,4
+386,Any Love,Masterjam,Rufus & Chaka Khan,01-01-79,292306,33,0.766,0.000619,0.766,0.556,3.37E-05,0.0945,-14.447,0.0487,123.834,4
+387,Walkin' In The Sun,Rags To Rufus,Rufus & Chaka Khan,01-01-74,178626,32,0.469,0.704,0.469,0.374,2.49E-05,0.128,-10.565,0.0633,161.75,4
+388,Live In Me,Masterjam,Rufus & Chaka Khan,01-01-79,234773,28,0.714,0.112,0.714,0.467,2.99E-05,0.116,-15.068,0.0326,107.047,4
+389,Earth Song,Ask Rufus,Rufus & Chaka Khan,01-01-77,323800,22,0.494,0.812,0.494,0.423,0.182,0.0741,-16.834,0.0491,116.066,4
+390,On The Road Again,Piel de Barrabas,Barrabas,26-04-08,349373,38,0.798,0.018,0.798,0.524,0.0371,0.096,-13.522,0.0538,119.137,4
+391,Woman,Barrabas. Sus Primeras Grabaciones (1972-1975) [Remastered],Barrabas,2005,304040,31,0.703,0.0125,0.703,0.595,0.0128,0.0537,-13.707,0.1,124.14,4
+392,Wild Safari,Barrabas. Sus Primeras Grabaciones (1972-1975) [Remastered],Barrabas,2005,299826,28,0.668,0.14,0.668,0.562,0.0781,0.158,-14.834,0.0668,109.947,4
+393,On the Road Again,¡vive!,Barrabas,01-02-13,287825,22,0.76,0.0607,0.76,0.952,0.0175,0.0814,-4.593,0.0481,120.061,4
+394,Rock and Roll Everybody,Barrabas. Sus Primeras Grabaciones (1972-1975) [Remastered],Barrabas,2005,217466,18,0.495,0.0605,0.495,0.472,0.000225,0.341,-11.36,0.0525,171.797,4
+395,Dolores,Bestial,Barrabas,1982,303760,14,0.828,0.196,0.828,0.55,0.0348,0.224,-12.928,0.0299,104.837,4
+396,Boogie Rock,Barrabas. Sus Primeras Grabaciones (1972-1975) [Remastered],Barrabas,2005,184360,6,0.653,0.638,0.653,0.647,0.877,0.13,-14.589,0.11,135.77,4
+397,Lady Love,Soltad a Barrabas,Barrabas,1974,246400,13,0.711,0.0796,0.711,0.516,0.00166,0.0784,-14.942,0.0398,118.918,4
+398,Hi-Jack,Barrabas. Sus Primeras Grabaciones (1972-1975) [Remastered],Barrabas,2005,343160,13,0.717,0.0425,0.717,0.585,0.189,0.314,-14.466,0.06,118.6,4
+399,You Know,Power,Barrabas,1973,198720,2,0.572,0.0162,0.572,0.795,0.00239,0.0577,-12.817,0.0527,153.868,4
+400,The Hustle - Super Hustle Mix,The Hustle and the Best of Van McCoy,Van McCoy,01-01-76,252333,36,0.677,0.0188,0.677,0.667,0.801,0.168,-8.819,0.0264,117.11,4
+401,The Shuffle,Rhythms Of The World,Van McCoy,09-09-76,258159,22,0.569,0.177,0.569,0.485,0.4,0.0986,-17.404,0.0464,123.247,4
+402,Soul Cha Cha,Rhythms Of The World,Van McCoy,09-09-76,206820,20,0.703,0.283,0.703,0.559,0.00257,0.055,-18.57,0.0964,122.368,4
+403,Love At First Sight,The Real McCoy,Van McCoy,02-04-76,269906,19,0.587,0.283,0.587,0.692,0.869,0.112,-15.688,0.0374,112.905,4
+404,Disco Baby,Disco Baby,Van McCoy,01-01-75,224446,15,0.768,0.215,0.768,0.743,0.0036,0.0746,-17.326,0.0592,117.58,4
+405,Get Dancin,Disco Baby,Van McCoy,01-01-75,218495,14,0.646,0.0849,0.646,0.61,0.122,0.101,-17.073,0.0588,102.579,4
+406,Love Is The Answer,The Hustle and the Best of Van McCoy,Van McCoy,01-01-76,200388,14,0.589,0.508,0.589,0.408,0.94,0.618,-16.433,0.0374,116.172,4
+407,Keep On Hustlin',Disco Kid,Van McCoy,11-09-75,240426,14,0.569,0.244,0.569,0.554,0.382,0.0506,-19.108,0.0428,106.029,4
+408,I'm in Love With You Baby (Remastered 1995),Soul Improvisations,Van McCoy,01-07-72,200133,13,0.413,0.503,0.413,0.488,0.00144,0.152,-14.404,0.0444,187.691,4
+409,The Hustle - Original Mix,Disco Baby,Van McCoy,01-01-75,253683,48,0.637,0.0401,0.637,0.624,0.51,0.0627,-17.81,0.0622,110.278,4
+410,Easy,Commodores,Commodores,01-01-77,256426,76,0.589,0.112,0.589,0.384,2.80E-05,0.0596,-15.075,0.0332,132.909,4
+411,Brick House,Commodores,Commodores,01-01-77,208893,66,0.831,0.0731,0.831,0.782,0.0171,0.032,-10.48,0.0595,107.877,4
+412,Nightshift,Nightshift,Commodores,01-01-85,306560,63,0.727,0.62,0.727,0.559,0.0114,0.0629,-10.194,0.0392,105.06,4
+413,Three Times A Lady,Natural High,Commodores,01-01-78,398506,60,0.487,0.834,0.487,0.094,0.000224,0.172,-19.555,0.0274,74.857,3
+414,Three Times A Lady,Three Times A Lady Hit Pac,Commodores,01-01-08,215440,51,0.365,0.94,0.365,0.126,0.00447,0.141,-17.286,0.0304,150.643,3
+415,Machine Gun,Machine Gun,Commodores,01-01-74,159466,54,0.741,0.00882,0.741,0.97,0.836,0.295,-6.364,0.0341,113.103,4
+416,Lady (You Bring Me Up),In The Pocket,Commodores,01-01-81,293226,54,0.892,0.2,0.892,0.593,0.000339,0.0996,-9.429,0.0405,120.979,4
+417,Still,All The Great Love Songs,Commodores,01-01-85,224986,52,0.352,0.894,0.352,0.0613,9.44E-05,0.0984,-19.701,0.0366,124.378,4
+418,Zoom,Commodores,Commodores,01-01-77,404133,52,0.475,0.32,0.475,0.314,0,0.0367,-13.08,0.058,174.042,4
+419,Sail On,All The Great Love Songs,Commodores,1985,240240,51,0.481,0.413,0.481,0.317,1.10E-05,0.0786,-17.356,0.0455,142.417,4
+420,I Say a Little Prayer,Aretha Now,Aretha Franklin,14-06-68,216773,75,0.592,0.478,0.592,0.355,0,0.0585,-14.051,0.0352,133.032,4
+421,Respect,I Never Loved a Man the Way I Love You,Aretha Franklin,10-03-67,147600,73,0.805,0.164,0.805,0.558,2.20E-05,0.0546,-5.226,0.041,114.95,4
+422,(You Make Me Feel Like) A Natural Woman,Lady Soul (With Bonus Selections),Aretha Franklin,22-01-68,165333,69,0.603,0.679,0.603,0.271,0,0.141,-10.083,0.0284,110.89,3
+423,Think,Aretha Now,Aretha Franklin,14-06-68,139733,68,0.687,0.251,0.687,0.63,0,0.221,-10.817,0.0389,110.051,4
+424,You Send Me,Aretha Now,Aretha Franklin,14-06-68,149626,62,0.512,0.57,0.512,0.303,0,0.0803,-13.547,0.0374,102.908,4
+425,Chain of Fools,Lady Soul (With Bonus Selections),Aretha Franklin,22-01-68,167066,62,0.721,0.221,0.721,0.567,0,0.465,-9.516,0.0389,116.643,4
+426,Son of a Preacher Man,This Girl's in Love with You,Aretha Franklin,15-01-70,199266,61,0.474,0.545,0.474,0.473,1.25E-06,0.0356,-11.454,0.0601,77.583,4
+427,Day Dreaming,"Young, Gifted and Black",Aretha Franklin,24-01-72,239960,60,0.463,0.907,0.463,0.273,0.000367,0.101,-15.364,0.074,146.426,4
+428,Groovin',Lady Soul (With Bonus Selections),Aretha Franklin,22-01-68,177706,38,0.642,0.567,0.642,0.405,2.54E-05,0.101,-11.094,0.0255,91.332,4
+429,People Get Ready,Lady Soul (With Bonus Selections),Aretha Franklin,22-01-68,224360,34,0.594,0.783,0.594,0.328,0,0.0515,-9.502,0.0348,126.702,4
+430,Take Your Time (Do It Right),S.O.S.,The S.O.S Band,1980,460800,50,0.863,0.0129,0.863,0.538,0.0188,0.0877,-13.924,0.0545,118.931,4
+431,Tell Me If You Still Care,On The Rise,The S.O.S Band,01-01-83,416733,39,0.578,0.071,0.578,0.675,0.00638,0.0988,-14.388,0.0391,81.135,4
+432,Just Be Good To Me,On The Rise,The S.O.S Band,01-01-83,549000,46,0.608,0.021,0.608,0.909,0.125,0.0795,-11.065,0.0315,100.872,4
+433,The Finest,Sands Of Time,The S.O.S Band,09-04-86,366266,42,0.869,0.326,0.869,0.599,0.0373,0.0598,-11.993,0.0699,109.665,4
+434,No One's Gonna Love You,Best Of,The S.O.S Band,01-01-11,406453,35,0.739,0.0281,0.739,0.504,0.0353,0.0718,-10.106,0.0346,100.624,4
+435,"Just Be Good To Me - 12"" Vocal Remix",Best Of,The S.O.S Band,01-01-11,459546,32,0.753,0.0222,0.753,0.839,0.0042,0.299,-7.48,0.0437,101.507,4
+436,Just The Way You Like It,Just The Way You Like It,The S.O.S Band,01-01-84,521666,31,0.735,0.0436,0.735,0.657,0.000202,0.359,-11.379,0.0337,102.3,4
+437,High Hopes,S.O.S. III,The S.O.S Band,29-10-82,390093,31,0.826,0.0338,0.826,0.697,0.0295,0.0456,-10.457,0.0573,106.151,4
+438,Weekend Girl,Just The Way You Like It,The S.O.S Band,01-01-84,384960,31,0.595,0.189,0.595,0.448,0,0.566,-12.602,0.036,78.657,4
+439,Groovin' (That's What We're Doin'),S.O.S. III,The S.O.S Band,29-10-82,265800,23,0.872,0.0806,0.872,0.258,0.568,0.0495,-14.885,0.0487,106.14,4
+440,La vie en rose,Portfolio,Grace Jones,01-01-77,448000,60,0.65,0.225,0.65,0.477,0.016,0.0642,-16.007,0.0624,176.708,4
+441,Pull Up To The Bumper,Private Life: The Compass Point Sessions,Grace Jones,01-01-98,273293,56,0.851,0.179,0.851,0.923,0.00707,0.102,-5.159,0.105,108.697,4
+442,Slave To The Rhythm - Hot Blooded Version,Private Life: The Compass Point Sessions,Grace Jones,01-01-98,498840,51,0.595,0.0603,0.595,0.836,0.0477,0.326,-6.917,0.0358,97.095,4
+443,I've Seen That Face Before (Libertango),Private Life: The Compass Point Sessions,Grace Jones,01-01-98,269573,50,0.809,0.000603,0.809,0.669,0.193,0.0634,-7.748,0.0403,132.994,4
+444,Pull Up To The Bumper - Edit,The Grace Jones Story,Grace Jones,01-01-06,219613,47,0.828,0.165,0.828,0.886,0.00766,0.0532,-8.29,0.094,108.516,4
+445,My Jamaican Guy,Classic Grace Jones,Grace Jones,01-01-03,360800,42,0.755,0.0715,0.755,0.923,0.0383,0.0545,-10.376,0.066,95.431,4
+446,Victor Should Have Been A Jazz Musician,Inside Story,Grace Jones,1986,283546,43,0.751,0.155,0.751,0.412,0.0309,0.0468,-12.77,0.0273,106.991,4
+447,Williams Blood,Hurricane,Grace Jones,10-11-08,359613,41,0.7,0.00569,0.7,0.69,0.00445,0.606,-7.591,0.0364,103.994,4
+448,A Rolling Stone,Warm Leatherette,Grace Jones,09-05-80,212462,18,0.889,0.0113,0.889,0.664,0.00479,0.113,-11.79,0.082,120.15,4
+449,I Need A Man,Portfolio,Grace Jones,01-01-77,203840,34,0.567,0.131,0.567,0.572,0,0.178,-15.538,0.0502,131.634,4
+450,Square Biz,Greatest Hits,Teena Marie,01-01-86,385533,44,0.768,0.167,0.768,0.861,0.000143,0.42,-10.967,0.0883,113.599,4
+451,I Need Your Lovin',Irons In The Fire (Expanded 15 Track Version),Teena Marie,06-07-80,452186,47,0.668,0.0059,0.668,0.898,0.00516,0.0712,-6.14,0.0459,109.808,4
+452,Deja Vu (I've Been Here Before),Wild And Peaceful,Teena Marie,31-03-79,456800,46,0.377,0.649,0.377,0.459,0,0.387,-12.214,0.0632,151.779,4
+453,Portuguese Love,It Must Be Magic,Teena Marie,14-05-81,469173,45,0.466,0.142,0.466,0.573,0,0.0871,-12.304,0.0793,140.643,4
+454,Still In Love,La Dona,Teena Marie,11-05-04,256640,42,0.713,0.607,0.713,0.663,0,0.255,-3.749,0.0386,79.004,4
+455,"Lead Me On - From ""Top Gun"" Original Soundtrack",Emerald City (Expanded Edition),Teena Marie,22-07-86,228280,41,0.672,0.416,0.672,0.874,0,0.063,-4.502,0.0388,133.249,4
+456,Ooo La La La,Naked To The World,Teena Marie,21-03-88,317133,41,0.534,0.329,0.534,0.58,0,0.128,-10.488,0.0368,173.417,4
+457,Behind The Groove,Lady T (Expanded Edition 15 Track Version),Teena Marie,14-02-80,365866,37,0.717,0.0818,0.717,0.867,4.55E-05,0.0744,-7.981,0.139,115.443,4
+458,Lovergirl,Starchild (Expanded Edition),Teena Marie,11-11-85,290893,37,0.76,0.119,0.76,0.853,0.00212,0.0996,-4.594,0.0658,123.301,4
+459,Work It,Naked To The World,Teena Marie,21-03-88,348626,17,0.577,0.14,0.577,0.777,0,0.31,-10.299,0.0902,170.113,4
+460,Fly Robin Fly - Alternate Mix,Save Me,Silver Convention,1975,228920,44,0.828,0.00709,0.828,0.417,0.762,0.0703,-14.136,0.0328,100.28,4
+461,Get Up and Boogie (That's Right) - Radio Mix,Silver Convention,Silver Convention,1976,170066,38,0.801,0.119,0.801,0.545,0.00194,0.079,-14.876,0.0306,104.989,4
+462,San Francisco Hustle,Silver Convention,Silver Convention,1976,288653,38,0.887,0.0206,0.887,0.4,0.172,0.213,-16.178,0.0412,104.952,4
+463,Fly Robin Fly,Chains of Love,Silver Convention,20-12-17,332893,34,0.855,0.0182,0.855,0.477,0.104,0.104,-11.841,0.0349,100.004,4
+464,Get Up and Boogie (That's Right),Silver Convention,Silver Convention,1976,250253,31,0.628,0.313,0.628,0.504,0.00976,0.23,-16.117,0.051,207.956,4
+465,Get up and Boogie,Disco Divas,Silver Convention,31-12-14,456037,28,0.865,0.776,0.865,0.605,0.344,0.206,-11.227,0.0377,108.432,4
+466,Fly Robin Fly,Save Me,Silver Convention,1975,341066,23,0.871,0.0164,0.871,0.361,0.564,0.116,-17.378,0.032,99.885,4
+467,Save Me,Save Me,Silver Convention,1975,206600,18,0.749,0.68,0.749,0.348,0.927,0.165,-21.068,0.0681,122.548,4
+468,I Like It,Save Me,Silver Convention,1975,317333,15,0.682,0.0759,0.682,0.385,0.0785,0.123,-15.869,0.0338,105.344,4
+469,You've Got What It Takes (To Please Your Woman),Silver Convention,Silver Convention,1976,236733,18,0.771,0.0347,0.771,0.356,0.0559,0.0908,-14.543,0.0391,102.532,4
+470,Rock the Boat,Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,202573,62,0.597,0.257,0.597,0.581,0,0.105,-9.72,0.0449,107.202,4
+471,I Got Caught Dancing Again,Rockin' Soul,Hues Corporation,04-09-15,198440,32,0.445,0.243,0.445,0.465,0,0.244,-9.22,0.0289,78.849,4
+472,How I Wish We Could Do It Again,Rockin' Soul,Hues Corporation,04-09-15,178226,26,0.379,0.0138,0.379,0.463,1.44E-06,0.395,-9.822,0.0409,73.382,4
+473,Off My Cloud,Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,256959,21,0.279,0.67,0.279,0.299,2.85E-05,0.126,-11.333,0.0326,145.728,4
+474,Freedom for the Stallion,Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,240040,18,0.516,0.417,0.516,0.378,5.20E-05,0.0949,-10.311,0.0283,109.206,4
+475,Rockin' Soul,Rockin' Soul,Hues Corporation,04-09-15,175240,17,0.52,0.0458,0.52,0.639,0,0.184,-7.299,0.0903,214.649,4
+476,Bound On a Reason,Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,195800,12,0.532,0.13,0.532,0.554,0,0.101,-9.307,0.0308,112.219,4
+477,The Family,Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,189826,11,0.445,0.486,0.445,0.463,0,0.0922,-8.6,0.0437,150.148,4
+478,Freedom for the Stallion - Single Version,Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,224666,9,0.522,0.565,0.522,0.338,0.00347,0.211,-11.241,0.0286,109.805,4
+479,Salvation Lady (1-3-5),Freedom for the Stallion (Expanded Edition),Hues Corporation,1973,199000,8,0.572,0.244,0.572,0.565,0,0.113,-9.467,0.0407,140.535,4
+480,Love Rollercoaster,Honey,Ohio Players,16-08-75,290160,60,0.613,0.181,0.613,0.82,1.45E-06,0.049,-10.175,0.0737,115.125,4
+481,Fire,Fire,Ohio Players,01-06-74,276333,50,0.639,0.324,0.639,0.75,0.0335,0.282,-11.794,0.0557,107.174,4
+482,Ecstasy,Ecstasy,Ohio Players,01-09-73,149160,45,0.662,0.201,0.662,0.627,0.00156,0.0966,-9.246,0.0603,100.771,4
+483,Funky Worm,Pleasure,Ohio Players,01-12-72,160986,45,0.681,0.0939,0.681,0.651,0.00037,0.0535,-9.786,0.0751,86.604,4
+484,Heaven Must Be Like This,Skin Tight,Ohio Players,01-04-74,438133,43,0.462,0.0405,0.462,0.429,0.00486,0.256,-12.616,0.0323,140.268,4
+485,Sweet Sticky Thing,Honey,Ohio Players,16-08-75,372733,42,0.532,0.201,0.532,0.582,0.0139,0.087,-12.297,0.0631,90.82,4
+486,Skin Tight,Skin Tight,Ohio Players,01-04-74,474266,39,0.828,0.0399,0.828,0.611,0.0116,0.104,-12.749,0.0393,110.169,4
+487,I Want To Be Free,Fire,Ohio Players,01-06-74,414360,38,0.501,0.286,0.501,0.485,0.000273,0.0649,-12.826,0.121,142.274,4
+488,Who'd She Coo?,Live 1977,Ohio Players,19-11-13,430266,35,0.645,0.0873,0.645,0.848,0.0258,0.391,-5.302,0.179,110.661,4
+489,Here Today Gone Tomorrow,Backtracks,Ohio Players,1999,215720,35,0.492,0.38,0.492,0.455,1.37E-05,0.12,-10.165,0.1,91.633,4
+490,Gonna Get Over You,Now!,France Joli,1982,251360,43,0.776,0.0192,0.776,0.601,0.00074,0.0366,-9.335,0.0658,109.976,4
+491,Come to Me,Come to Me,France Joli,01-01-79,590986,40,0.716,0.00797,0.716,0.653,0.00204,0.0681,-8.827,0.0579,132.27,4
+492,Come to Me - Radio Edit,Come to Me,France Joli,01-01-79,255373,30,0.55,0.0333,0.55,0.821,0.000109,0.234,-8.082,0.137,132.689,4
+493,"Gonna Get Over You - 12"" Mix",Now!,France Joli,1982,441800,29,0.805,0.00422,0.805,0.526,0.00755,0.044,-10.426,0.083,110.625,4
+494,Don't Stop Dancing,Come to Me,France Joli,01-01-79,468893,19,0.783,0.00479,0.783,0.73,0.183,0.0301,-10.641,0.0557,131.921,4
+495,The Heart to Break the Heart - Remix,Tonight,France Joli,01-01-80,567826,16,0.677,0.142,0.677,0.623,8.58E-05,0.155,-11.325,0.0416,128.194,4
+496,Dont Let Go,France Joli: Greatest Hits,France Joli,01-01-94,568106,17,0.759,0.109,0.759,0.757,0.0141,0.192,-10.387,0.074,131.975,4
+497,Come to Me - Classy Disco Remix,Come to Me,France Joli,01-01-79,433573,15,0.649,0.00173,0.649,0.645,0.0516,0.147,-9.932,0.0325,132.004,4
+498,Your Good Loving,Now!,France Joli,1982,343506,15,0.791,0.00591,0.791,0.772,0.0122,0.294,-10.664,0.0833,112.075,4
+499,Tough Luck,Tonight,France Joli,01-01-80,321960,1,0.518,0.011,0.518,0.511,1.04E-05,0.0514,-11.565,0.0359,122.717,4
